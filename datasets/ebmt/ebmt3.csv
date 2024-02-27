@@ -1,0 +1,2205 @@
+id,prtime,prstat,rfstime,rfsstat,dissub,age,drmatch,tcd
+1,23.0,1,744.0,0,CML,>40,Gender mismatch,No TCD
+2,35.0,1,360.0,1,CML,>40,No gender mismatch,No TCD
+3,26.0,1,135.0,1,CML,>40,No gender mismatch,No TCD
+4,22.0,1,995.0,0,AML,20-40,No gender mismatch,No TCD
+5,29.0,1,422.0,1,AML,20-40,No gender mismatch,No TCD
+6,38.0,1,119.0,1,ALL,>40,No gender mismatch,No TCD
+7,30.0,1,590.0,0,CML,20-40,Gender mismatch,No TCD
+8,35.0,1,1448.0,0,ALL,<=20,No gender mismatch,No TCD
+9,1264.0,0,1264.0,0,AML,20-40,No gender mismatch,No TCD
+10,1102.0,0,338.0,1,CML,>40,No gender mismatch,No TCD
+11,50.0,1,84.0,1,AML,20-40,Gender mismatch,No TCD
+12,22.0,1,114.0,1,AML,>40,Gender mismatch,No TCD
+13,33.0,1,1427.0,0,AML,20-40,No gender mismatch,No TCD
+14,29.0,1,775.0,1,AML,>40,No gender mismatch,No TCD
+15,24.0,1,1047.0,1,CML,>40,No gender mismatch,No TCD
+16,31.0,1,1618.0,0,AML,20-40,No gender mismatch,No TCD
+17,87.0,1,1111.0,0,AML,20-40,Gender mismatch,No TCD
+18,469.0,0,255.0,1,AML,20-40,No gender mismatch,No TCD
+19,59.0,0,59.0,1,ALL,<=20,No gender mismatch,No TCD
+20,1727.0,0,1392.0,1,CML,20-40,No gender mismatch,No TCD
+21,55.0,1,1711.0,0,AML,>40,No gender mismatch,No TCD
+22,51.0,1,1492.0,0,AML,<=20,Gender mismatch,No TCD
+23,1959.0,0,1959.0,0,AML,20-40,No gender mismatch,No TCD
+24,1837.0,0,1837.0,0,ALL,>40,No gender mismatch,No TCD
+25,24.0,1,92.0,1,CML,>40,No gender mismatch,No TCD
+26,136.0,1,2106.0,0,CML,20-40,No gender mismatch,No TCD
+27,148.0,1,2064.0,0,ALL,>40,Gender mismatch,No TCD
+28,28.0,1,2042.0,0,CML,>40,No gender mismatch,No TCD
+29,25.0,0,25.0,1,ALL,>40,No gender mismatch,No TCD
+30,38.0,1,855.0,0,ALL,<=20,Gender mismatch,No TCD
+31,49.0,1,770.0,0,ALL,<=20,No gender mismatch,No TCD
+32,21.0,1,763.0,0,AML,<=20,No gender mismatch,No TCD
+33,245.0,1,360.0,1,AML,<=20,No gender mismatch,No TCD
+34,33.0,1,1098.0,0,AML,<=20,No gender mismatch,No TCD
+35,2267.0,0,2267.0,0,ALL,20-40,No gender mismatch,No TCD
+36,31.0,1,1001.0,1,ALL,<=20,No gender mismatch,No TCD
+37,118.0,1,2588.0,0,AML,20-40,Gender mismatch,No TCD
+38,123.0,0,123.0,1,ALL,<=20,Gender mismatch,No TCD
+39,80.0,1,2182.0,0,AML,<=20,Gender mismatch,No TCD
+40,1827.0,0,1827.0,0,AML,<=20,No gender mismatch,No TCD
+41,31.0,1,1811.0,0,ALL,<=20,Gender mismatch,No TCD
+42,1831.0,0,1831.0,0,ALL,<=20,No gender mismatch,No TCD
+43,1461.0,0,1461.0,0,CML,<=20,No gender mismatch,No TCD
+44,151.0,0,151.0,1,AML,20-40,No gender mismatch,No TCD
+45,27.0,1,1120.0,0,AML,>40,No gender mismatch,No TCD
+46,43.0,1,155.0,1,ALL,<=20,Gender mismatch,No TCD
+47,163.0,1,2424.0,0,ALL,<=20,No gender mismatch,No TCD
+48,17.0,1,247.0,1,AML,<=20,No gender mismatch,No TCD
+49,41.0,1,2185.0,0,ALL,<=20,No gender mismatch,No TCD
+50,2179.0,0,2179.0,0,AML,<=20,No gender mismatch,No TCD
+51,31.0,1,1882.0,1,ALL,<=20,No gender mismatch,No TCD
+52,41.0,1,2053.0,0,AML,<=20,No gender mismatch,No TCD
+53,97.0,1,1983.0,0,ALL,<=20,No gender mismatch,No TCD
+54,27.0,1,1969.0,0,AML,<=20,Gender mismatch,No TCD
+55,36.0,1,118.0,1,ALL,<=20,Gender mismatch,No TCD
+56,383.0,0,164.0,1,AML,<=20,Gender mismatch,No TCD
+57,36.0,1,1856.0,0,AML,<=20,No gender mismatch,No TCD
+58,48.0,1,139.0,1,AML,<=20,No gender mismatch,No TCD
+59,17.0,1,456.0,1,AML,<=20,No gender mismatch,No TCD
+60,127.0,0,81.0,1,AML,<=20,No gender mismatch,No TCD
+61,37.0,1,1842.0,0,AML,<=20,No gender mismatch,No TCD
+62,146.0,1,1778.0,0,ALL,<=20,No gender mismatch,No TCD
+63,43.0,1,1457.0,0,ALL,<=20,Gender mismatch,No TCD
+64,48.0,1,1239.0,0,AML,<=20,No gender mismatch,No TCD
+65,48.0,1,1436.0,0,AML,<=20,Gender mismatch,No TCD
+66,34.0,1,1458.0,0,AML,<=20,Gender mismatch,No TCD
+67,31.0,0,31.0,1,ALL,<=20,No gender mismatch,No TCD
+68,50.0,1,1260.0,0,ALL,<=20,No gender mismatch,No TCD
+69,76.0,1,1290.0,0,ALL,<=20,No gender mismatch,No TCD
+70,55.0,1,168.0,1,AML,<=20,No gender mismatch,No TCD
+71,57.0,1,250.0,1,CML,20-40,No gender mismatch,TCD
+72,63.0,1,314.0,1,AML,>40,No gender mismatch,TCD
+73,36.0,1,407.0,1,AML,20-40,No gender mismatch,TCD
+74,29.0,1,2013.0,0,AML,20-40,Gender mismatch,TCD
+75,245.0,1,1841.0,0,AML,>40,No gender mismatch,TCD
+76,50.0,1,1924.0,0,CML,>40,No gender mismatch,TCD
+77,38.0,1,399.0,1,AML,20-40,No gender mismatch,TCD
+78,162.0,1,1695.0,0,ALL,20-40,Gender mismatch,TCD
+79,190.0,1,1723.0,0,ALL,<=20,Gender mismatch,TCD
+80,15.0,1,280.0,1,CML,20-40,No gender mismatch,TCD
+81,17.0,1,1438.0,0,AML,>40,No gender mismatch,TCD
+82,41.0,1,561.0,1,AML,20-40,No gender mismatch,TCD
+83,41.0,1,229.0,1,AML,20-40,No gender mismatch,No TCD
+84,46.0,1,1523.0,0,AML,20-40,Gender mismatch,No TCD
+85,2767.0,0,2767.0,0,CML,>40,No gender mismatch,No TCD
+86,638.0,0,196.0,1,AML,<=20,No gender mismatch,No TCD
+87,512.0,0,512.0,0,AML,<=20,No gender mismatch,No TCD
+88,29.0,1,718.0,0,AML,<=20,Gender mismatch,TCD
+89,61.0,1,202.0,1,ALL,20-40,Gender mismatch,No TCD
+90,35.0,1,1838.0,0,AML,20-40,No gender mismatch,No TCD
+91,19.0,1,387.0,1,AML,>40,No gender mismatch,No TCD
+92,19.0,1,1847.0,0,ALL,20-40,No gender mismatch,No TCD
+93,34.0,1,281.0,1,ALL,20-40,No gender mismatch,No TCD
+94,170.0,0,170.0,1,AML,20-40,No gender mismatch,No TCD
+95,2314.0,0,2314.0,0,CML,20-40,No gender mismatch,No TCD
+96,1755.0,0,1755.0,0,CML,20-40,No gender mismatch,No TCD
+97,2260.0,0,2260.0,0,CML,20-40,No gender mismatch,No TCD
+98,2186.0,0,2186.0,0,CML,20-40,No gender mismatch,No TCD
+99,2232.0,0,2232.0,0,CML,20-40,Gender mismatch,No TCD
+100,19.0,1,204.0,1,AML,20-40,No gender mismatch,No TCD
+101,1656.0,0,1656.0,0,AML,>40,No gender mismatch,No TCD
+102,1041.0,0,692.0,1,CML,20-40,No gender mismatch,No TCD
+103,2545.0,0,2545.0,0,CML,20-40,No gender mismatch,No TCD
+104,2392.0,0,395.0,1,CML,>40,Gender mismatch,No TCD
+105,2447.0,0,2447.0,0,CML,20-40,Gender mismatch,No TCD
+106,29.0,1,300.0,1,ALL,20-40,Gender mismatch,No TCD
+107,1508.0,0,1508.0,0,CML,20-40,No gender mismatch,No TCD
+108,18.0,1,858.0,0,CML,<=20,Gender mismatch,No TCD
+109,1389.0,0,1389.0,0,CML,20-40,No gender mismatch,No TCD
+110,1410.0,0,377.0,1,CML,20-40,No gender mismatch,No TCD
+111,1390.0,0,1390.0,0,CML,>40,No gender mismatch,No TCD
+112,1354.0,0,1354.0,0,CML,20-40,Gender mismatch,No TCD
+113,1265.0,0,89.0,1,CML,20-40,No gender mismatch,No TCD
+114,1243.0,0,1243.0,0,CML,20-40,Gender mismatch,No TCD
+115,1321.0,0,320.0,1,CML,>40,No gender mismatch,No TCD
+116,1340.0,0,130.0,1,CML,>40,No gender mismatch,No TCD
+117,1284.0,0,87.0,1,CML,>40,No gender mismatch,No TCD
+118,48.0,1,1901.0,0,CML,<=20,No gender mismatch,No TCD
+119,47.0,1,59.0,1,CML,<=20,No gender mismatch,No TCD
+120,1491.0,0,1491.0,0,CML,>40,No gender mismatch,No TCD
+121,1575.0,0,1575.0,0,CML,20-40,No gender mismatch,No TCD
+122,1463.0,0,1463.0,0,ALL,>40,No gender mismatch,TCD
+123,38.0,0,28.0,1,AML,20-40,No gender mismatch,No TCD
+124,1477.0,0,1477.0,0,CML,20-40,No gender mismatch,TCD
+125,1480.0,0,1480.0,0,CML,20-40,Gender mismatch,No TCD
+126,599.0,0,599.0,1,CML,20-40,No gender mismatch,No TCD
+127,908.0,0,908.0,0,ALL,20-40,No gender mismatch,No TCD
+128,25.0,1,916.0,0,ALL,<=20,No gender mismatch,No TCD
+129,25.0,1,1074.0,0,AML,<=20,No gender mismatch,No TCD
+130,132.0,1,1048.0,0,AML,20-40,No gender mismatch,No TCD
+131,1253.0,0,384.0,1,CML,>40,No gender mismatch,No TCD
+132,1285.0,0,1285.0,0,CML,>40,No gender mismatch,No TCD
+133,720.0,0,720.0,1,CML,>40,No gender mismatch,No TCD
+134,31.0,1,1352.0,0,AML,<=20,No gender mismatch,No TCD
+135,19.0,1,116.0,1,ALL,20-40,No gender mismatch,No TCD
+136,33.0,1,101.0,1,ALL,<=20,Gender mismatch,No TCD
+137,462.0,0,462.0,1,CML,>40,No gender mismatch,No TCD
+138,1042.0,0,1042.0,0,CML,>40,No gender mismatch,No TCD
+139,1319.0,0,1030.0,1,CML,>40,No gender mismatch,No TCD
+140,26.0,1,546.0,1,ALL,<=20,No gender mismatch,No TCD
+141,275.0,0,275.0,1,CML,20-40,Gender mismatch,No TCD
+142,186.0,1,1087.0,0,AML,20-40,Gender mismatch,No TCD
+143,105.0,1,1326.0,0,AML,<=20,Gender mismatch,No TCD
+144,69.0,1,1188.0,0,AML,20-40,Gender mismatch,No TCD
+145,152.0,1,823.0,0,ALL,<=20,Gender mismatch,No TCD
+146,45.0,1,87.0,1,ALL,>40,No gender mismatch,No TCD
+147,12.0,0,12.0,1,AML,>40,No gender mismatch,No TCD
+148,83.0,1,1422.0,0,AML,20-40,No gender mismatch,No TCD
+149,19.0,1,1391.0,0,AML,20-40,No gender mismatch,No TCD
+150,42.0,1,1728.0,0,CML,<=20,Gender mismatch,No TCD
+151,106.0,1,1621.0,0,AML,<=20,No gender mismatch,No TCD
+152,49.0,1,456.0,1,ALL,<=20,Gender mismatch,No TCD
+153,28.0,1,1793.0,0,ALL,<=20,Gender mismatch,No TCD
+154,274.0,1,2076.0,0,ALL,20-40,No gender mismatch,No TCD
+155,130.0,1,2163.0,1,ALL,<=20,No gender mismatch,No TCD
+156,2239.0,0,2239.0,0,CML,20-40,No gender mismatch,No TCD
+157,106.0,0,106.0,1,ALL,<=20,No gender mismatch,No TCD
+158,1432.0,0,1432.0,0,CML,>40,Gender mismatch,No TCD
+159,31.0,1,119.0,1,AML,<=20,Gender mismatch,No TCD
+160,27.0,1,1577.0,0,AML,20-40,No gender mismatch,No TCD
+161,29.0,1,98.0,1,AML,>40,No gender mismatch,No TCD
+162,152.0,1,1840.0,0,AML,<=20,No gender mismatch,No TCD
+163,223.0,1,369.0,1,ALL,20-40,No gender mismatch,No TCD
+164,71.0,0,71.0,1,AML,<=20,No gender mismatch,No TCD
+165,111.0,1,2058.0,0,AML,<=20,No gender mismatch,No TCD
+166,70.0,1,1591.0,0,ALL,<=20,No gender mismatch,No TCD
+167,71.0,1,1777.0,0,AML,<=20,No gender mismatch,No TCD
+168,54.0,1,2055.0,0,AML,<=20,No gender mismatch,No TCD
+169,158.0,0,158.0,1,AML,20-40,No gender mismatch,No TCD
+170,120.0,1,1523.0,0,ALL,20-40,No gender mismatch,No TCD
+171,917.0,0,917.0,0,CML,>40,No gender mismatch,No TCD
+172,560.0,0,530.0,1,CML,>40,No gender mismatch,No TCD
+173,358.0,0,358.0,0,CML,20-40,No gender mismatch,No TCD
+174,1414.0,0,1414.0,0,CML,20-40,No gender mismatch,No TCD
+175,1167.0,0,1167.0,0,CML,>40,No gender mismatch,No TCD
+176,1721.0,0,1721.0,0,CML,>40,No gender mismatch,No TCD
+177,1642.0,0,1642.0,0,CML,20-40,No gender mismatch,No TCD
+178,122.0,1,1497.0,0,AML,20-40,No gender mismatch,TCD
+179,80.0,1,2271.0,0,AML,20-40,Gender mismatch,TCD
+180,247.0,1,333.0,1,ALL,20-40,Gender mismatch,TCD
+181,38.0,1,2160.0,0,ALL,20-40,No gender mismatch,TCD
+182,140.0,0,140.0,1,ALL,20-40,Gender mismatch,TCD
+183,68.0,0,68.0,1,AML,20-40,No gender mismatch,TCD
+184,42.0,1,1936.0,0,CML,<=20,No gender mismatch,No TCD
+185,21.0,1,1536.0,1,CML,>40,Gender mismatch,No TCD
+186,26.0,1,1782.0,0,CML,20-40,Gender mismatch,No TCD
+187,57.0,0,57.0,1,CML,>40,No gender mismatch,No TCD
+188,109.0,0,109.0,1,AML,20-40,No gender mismatch,TCD
+189,26.0,1,741.0,0,AML,20-40,Gender mismatch,TCD
+190,18.0,1,1546.0,0,CML,20-40,No gender mismatch,No TCD
+191,34.0,1,1571.0,0,CML,20-40,No gender mismatch,No TCD
+192,33.0,1,318.0,1,CML,<=20,No gender mismatch,No TCD
+193,14.0,0,14.0,1,AML,20-40,No gender mismatch,TCD
+194,52.0,1,138.0,1,CML,20-40,No gender mismatch,No TCD
+195,25.0,1,798.0,1,AML,20-40,Gender mismatch,TCD
+196,20.0,1,2519.0,0,AML,>40,Gender mismatch,No TCD
+197,19.0,1,2492.0,0,AML,20-40,No gender mismatch,No TCD
+198,26.0,1,2061.0,0,AML,20-40,No gender mismatch,No TCD
+199,31.0,1,1896.0,1,CML,<=20,No gender mismatch,No TCD
+200,24.0,1,2043.0,0,CML,>40,No gender mismatch,No TCD
+201,33.0,1,112.0,1,CML,20-40,Gender mismatch,No TCD
+202,34.0,1,315.0,1,ALL,20-40,No gender mismatch,No TCD
+203,21.0,1,2339.0,0,ALL,20-40,No gender mismatch,No TCD
+204,403.0,0,403.0,1,CML,20-40,No gender mismatch,No TCD
+205,23.0,1,2020.0,0,AML,>40,Gender mismatch,No TCD
+206,72.0,0,72.0,1,CML,>40,No gender mismatch,No TCD
+207,25.0,1,1831.0,0,AML,20-40,Gender mismatch,No TCD
+208,17.0,1,319.0,1,AML,20-40,No gender mismatch,No TCD
+209,66.0,1,1893.0,0,ALL,<=20,No gender mismatch,No TCD
+210,276.0,0,174.0,1,ALL,20-40,No gender mismatch,No TCD
+211,24.0,1,1278.0,1,CML,>40,No gender mismatch,No TCD
+212,1079.0,0,1079.0,1,CML,>40,No gender mismatch,No TCD
+213,24.0,1,1641.0,0,CML,20-40,No gender mismatch,No TCD
+214,19.0,1,1462.0,0,CML,>40,No gender mismatch,No TCD
+215,1461.0,0,1461.0,0,AML,20-40,No gender mismatch,No TCD
+216,15.0,1,364.0,1,AML,<=20,No gender mismatch,No TCD
+217,20.0,1,808.0,1,ALL,<=20,Gender mismatch,No TCD
+218,556.0,0,417.0,1,ALL,20-40,Gender mismatch,No TCD
+219,19.0,1,865.0,0,AML,20-40,No gender mismatch,No TCD
+220,31.0,1,454.0,0,CML,20-40,No gender mismatch,No TCD
+221,89.0,0,89.0,1,AML,>40,No gender mismatch,No TCD
+222,251.0,1,1006.0,0,ALL,20-40,No gender mismatch,No TCD
+223,0.030425,0,0.030425,0,ALL,20-40,No gender mismatch,No TCD
+224,1935.0,0,1935.0,0,AML,20-40,Gender mismatch,No TCD
+225,45.0,1,794.0,0,CML,<=20,No gender mismatch,No TCD
+226,22.0,1,211.0,1,AML,>40,Gender mismatch,No TCD
+227,1511.0,0,1511.0,1,CML,20-40,No gender mismatch,No TCD
+228,1399.0,0,1399.0,0,CML,20-40,Gender mismatch,No TCD
+229,1231.0,0,1231.0,0,CML,20-40,No gender mismatch,No TCD
+230,22.0,1,742.0,1,CML,20-40,No gender mismatch,No TCD
+231,31.0,1,2652.0,0,CML,20-40,No gender mismatch,No TCD
+232,1837.0,0,1837.0,0,ALL,<=20,Gender mismatch,No TCD
+233,1771.0,0,1771.0,0,AML,<=20,No gender mismatch,No TCD
+234,121.0,0,115.0,1,AML,20-40,No gender mismatch,TCD
+235,1081.0,0,1081.0,0,CML,>40,No gender mismatch,No TCD
+236,447.0,0,447.0,0,AML,>40,No gender mismatch,TCD
+237,71.0,0,71.0,1,CML,<=20,No gender mismatch,No TCD
+238,91.0,0,91.0,0,CML,>40,Gender mismatch,No TCD
+239,25.0,1,158.0,1,ALL,20-40,No gender mismatch,TCD
+240,1133.0,0,71.0,1,AML,>40,No gender mismatch,TCD
+241,2284.0,0,2284.0,1,ALL,<=20,No gender mismatch,No TCD
+242,237.0,0,223.0,1,ALL,20-40,No gender mismatch,No TCD
+243,2412.0,0,2412.0,0,ALL,20-40,No gender mismatch,No TCD
+244,2343.0,0,2343.0,0,CML,>40,No gender mismatch,No TCD
+245,2561.0,0,2561.0,0,AML,>40,No gender mismatch,No TCD
+246,2502.0,0,1929.0,1,CML,20-40,No gender mismatch,No TCD
+247,1246.0,0,1246.0,1,CML,>40,Gender mismatch,No TCD
+248,2380.0,0,2380.0,0,ALL,20-40,Gender mismatch,No TCD
+249,2145.0,0,2145.0,0,ALL,20-40,No gender mismatch,No TCD
+250,2139.0,0,661.0,1,CML,>40,No gender mismatch,No TCD
+251,2412.0,0,2412.0,0,CML,20-40,No gender mismatch,No TCD
+252,91.0,0,71.0,1,ALL,20-40,Gender mismatch,No TCD
+253,2043.0,0,2043.0,0,AML,20-40,No gender mismatch,No TCD
+254,2404.0,0,2404.0,0,CML,>40,Gender mismatch,No TCD
+255,2443.0,0,2443.0,0,ALL,20-40,Gender mismatch,No TCD
+256,2398.0,0,2398.0,0,AML,<=20,Gender mismatch,No TCD
+257,205.0,0,205.0,1,CML,>40,No gender mismatch,No TCD
+258,2119.0,0,2119.0,0,AML,20-40,Gender mismatch,No TCD
+259,2295.0,0,2295.0,0,AML,20-40,No gender mismatch,No TCD
+260,792.0,0,792.0,1,CML,>40,Gender mismatch,No TCD
+261,2254.0,0,2254.0,0,AML,>40,No gender mismatch,No TCD
+262,2083.0,0,2083.0,0,AML,20-40,No gender mismatch,No TCD
+263,1092.0,0,227.0,1,AML,20-40,No gender mismatch,No TCD
+264,2253.0,0,2253.0,0,CML,>40,Gender mismatch,No TCD
+265,2173.0,0,2173.0,0,CML,20-40,Gender mismatch,No TCD
+266,1925.0,0,1925.0,0,AML,20-40,No gender mismatch,No TCD
+267,1739.0,0,1739.0,1,CML,20-40,No gender mismatch,No TCD
+268,2140.0,0,2140.0,0,CML,20-40,Gender mismatch,No TCD
+269,949.0,0,949.0,0,CML,20-40,Gender mismatch,No TCD
+270,497.0,0,274.0,1,ALL,<=20,No gender mismatch,No TCD
+271,281.0,0,209.0,1,AML,>40,Gender mismatch,No TCD
+272,1873.0,0,1873.0,0,AML,20-40,No gender mismatch,No TCD
+273,250.0,0,202.0,1,AML,>40,No gender mismatch,No TCD
+274,1963.0,0,1963.0,0,AML,20-40,Gender mismatch,No TCD
+275,692.0,0,692.0,1,CML,>40,No gender mismatch,No TCD
+276,1596.0,0,1596.0,0,AML,>40,No gender mismatch,No TCD
+277,739.0,0,428.0,1,AML,>40,No gender mismatch,No TCD
+278,1936.0,0,1936.0,0,CML,>40,Gender mismatch,No TCD
+279,1718.0,0,1718.0,0,CML,20-40,Gender mismatch,No TCD
+280,93.0,0,93.0,1,CML,20-40,No gender mismatch,No TCD
+281,1742.0,0,622.0,1,CML,20-40,No gender mismatch,No TCD
+282,1698.0,0,1698.0,0,ALL,20-40,No gender mismatch,No TCD
+283,1334.0,0,473.0,1,CML,<=20,No gender mismatch,No TCD
+284,1602.0,0,170.0,1,CML,>40,Gender mismatch,No TCD
+285,1015.0,0,1015.0,0,ALL,>40,No gender mismatch,No TCD
+286,1348.0,0,1348.0,0,AML,20-40,No gender mismatch,No TCD
+287,328.0,0,328.0,1,CML,20-40,No gender mismatch,No TCD
+288,1303.0,0,1303.0,0,AML,>40,No gender mismatch,No TCD
+289,1420.0,0,745.0,1,CML,20-40,No gender mismatch,No TCD
+290,1271.0,0,1271.0,0,ALL,20-40,No gender mismatch,No TCD
+291,1531.0,0,1531.0,0,CML,20-40,Gender mismatch,No TCD
+292,1369.0,0,1369.0,0,CML,20-40,Gender mismatch,No TCD
+293,1119.0,0,1119.0,0,CML,>40,No gender mismatch,No TCD
+294,87.0,0,87.0,1,CML,>40,No gender mismatch,No TCD
+295,1393.0,0,235.0,1,CML,>40,No gender mismatch,No TCD
+296,1320.0,0,1320.0,0,AML,20-40,No gender mismatch,No TCD
+297,320.0,0,125.0,1,ALL,20-40,Gender mismatch,No TCD
+298,1272.0,0,1272.0,0,CML,20-40,Gender mismatch,No TCD
+299,755.0,0,253.0,1,CML,20-40,No gender mismatch,No TCD
+300,882.0,0,882.0,0,ALL,>40,No gender mismatch,No TCD
+301,316.0,0,111.0,1,CML,>40,No gender mismatch,No TCD
+302,1292.0,0,1292.0,0,ALL,20-40,No gender mismatch,No TCD
+303,1287.0,0,1287.0,0,CML,20-40,Gender mismatch,No TCD
+304,1878.0,0,1878.0,0,AML,20-40,No gender mismatch,No TCD
+305,24.0,1,406.0,0,CML,<=20,Gender mismatch,No TCD
+306,19.0,1,116.0,1,CML,<=20,No gender mismatch,No TCD
+307,1722.0,0,1722.0,0,AML,<=20,No gender mismatch,No TCD
+308,1628.0,0,1628.0,0,ALL,<=20,No gender mismatch,No TCD
+309,23.0,1,1485.0,0,ALL,<=20,Gender mismatch,No TCD
+310,47.0,1,916.0,1,AML,<=20,No gender mismatch,No TCD
+311,39.0,1,1023.0,1,AML,<=20,No gender mismatch,No TCD
+312,23.0,1,1312.0,0,ALL,20-40,No gender mismatch,No TCD
+313,38.0,1,139.0,1,ALL,20-40,Gender mismatch,TCD
+314,54.0,0,54.0,1,AML,20-40,No gender mismatch,TCD
+315,94.0,0,94.0,1,ALL,20-40,No gender mismatch,TCD
+316,21.0,1,329.0,1,AML,20-40,No gender mismatch,No TCD
+317,41.0,1,717.0,0,ALL,20-40,No gender mismatch,No TCD
+318,39.0,1,102.0,0,AML,>40,No gender mismatch,No TCD
+319,729.0,0,729.0,0,ALL,20-40,No gender mismatch,No TCD
+320,94.0,0,94.0,1,AML,20-40,No gender mismatch,No TCD
+321,28.0,1,141.0,1,ALL,20-40,Gender mismatch,No TCD
+322,36.0,1,664.0,0,AML,20-40,Gender mismatch,No TCD
+323,82.0,1,1081.0,0,ALL,20-40,No gender mismatch,No TCD
+324,95.0,0,95.0,1,AML,20-40,Gender mismatch,No TCD
+325,771.0,0,771.0,0,AML,20-40,Gender mismatch,No TCD
+326,136.0,0,136.0,1,AML,20-40,Gender mismatch,No TCD
+327,26.0,1,71.0,1,AML,20-40,No gender mismatch,No TCD
+328,1431.0,0,1431.0,0,CML,>40,Gender mismatch,TCD
+329,37.0,1,954.0,0,AML,>40,Gender mismatch,No TCD
+330,20.0,1,1240.0,0,AML,>40,No gender mismatch,No TCD
+331,29.0,1,1403.0,0,AML,20-40,No gender mismatch,No TCD
+332,112.0,1,1368.0,0,AML,20-40,Gender mismatch,No TCD
+333,214.0,0,214.0,1,CML,20-40,No gender mismatch,No TCD
+334,122.0,0,122.0,1,CML,20-40,Gender mismatch,No TCD
+335,1463.0,0,1463.0,0,AML,20-40,No gender mismatch,No TCD
+336,65.0,0,65.0,1,ALL,>40,Gender mismatch,No TCD
+337,55.0,0,55.0,1,AML,>40,No gender mismatch,No TCD
+338,1077.0,0,1077.0,0,AML,20-40,Gender mismatch,No TCD
+339,972.0,0,972.0,0,ALL,<=20,Gender mismatch,No TCD
+340,1117.0,0,1117.0,0,AML,20-40,No gender mismatch,No TCD
+341,12.0,0,12.0,1,ALL,20-40,No gender mismatch,No TCD
+342,900.0,0,900.0,0,ALL,20-40,No gender mismatch,No TCD
+343,31.0,1,769.0,1,ALL,20-40,Gender mismatch,No TCD
+344,692.0,0,692.0,0,AML,<=20,No gender mismatch,TCD
+345,432.0,0,432.0,0,AML,20-40,No gender mismatch,TCD
+346,614.0,0,614.0,0,AML,20-40,No gender mismatch,TCD
+347,270.0,0,270.0,0,AML,>40,No gender mismatch,TCD
+348,410.0,0,410.0,0,AML,20-40,Gender mismatch,TCD
+349,410.0,0,410.0,0,ALL,20-40,No gender mismatch,No TCD
+350,172.0,0,172.0,1,AML,<=20,No gender mismatch,No TCD
+351,164.0,0,164.0,0,AML,20-40,No gender mismatch,TCD
+352,258.0,0,258.0,0,ALL,>40,No gender mismatch,No TCD
+353,250.0,0,250.0,0,AML,20-40,Gender mismatch,TCD
+354,74.0,0,74.0,1,AML,20-40,No gender mismatch,TCD
+355,15.0,0,15.0,1,ALL,>40,No gender mismatch,No TCD
+356,34.0,1,1672.0,1,CML,>40,No gender mismatch,No TCD
+357,828.0,0,828.0,0,AML,20-40,No gender mismatch,No TCD
+358,831.0,0,831.0,1,ALL,>40,Gender mismatch,No TCD
+359,2241.0,0,2241.0,0,CML,>40,No gender mismatch,No TCD
+360,2127.0,0,2127.0,0,AML,>40,No gender mismatch,No TCD
+361,2101.0,0,2101.0,0,CML,20-40,No gender mismatch,No TCD
+362,2130.0,0,2130.0,0,AML,>40,No gender mismatch,No TCD
+363,306.0,0,306.0,1,CML,>40,Gender mismatch,No TCD
+364,2052.0,0,2052.0,0,ALL,20-40,No gender mismatch,No TCD
+365,1842.0,0,1842.0,0,AML,20-40,No gender mismatch,No TCD
+366,72.0,0,72.0,1,AML,20-40,No gender mismatch,No TCD
+367,2324.0,0,2324.0,1,CML,20-40,Gender mismatch,No TCD
+368,369.0,0,369.0,1,ALL,<=20,No gender mismatch,No TCD
+369,1671.0,0,1671.0,1,AML,20-40,Gender mismatch,No TCD
+370,2554.0,0,2554.0,0,AML,>40,Gender mismatch,No TCD
+371,1773.0,0,1773.0,0,AML,<=20,No gender mismatch,No TCD
+372,1737.0,0,1737.0,0,CML,>40,No gender mismatch,No TCD
+373,78.0,0,78.0,1,CML,20-40,No gender mismatch,No TCD
+374,1847.0,0,1847.0,0,CML,20-40,Gender mismatch,No TCD
+375,127.0,0,127.0,1,CML,>40,No gender mismatch,No TCD
+376,1296.0,0,1296.0,0,CML,20-40,No gender mismatch,No TCD
+377,1255.0,0,1255.0,0,AML,20-40,No gender mismatch,No TCD
+378,513.0,0,489.0,1,AML,>40,No gender mismatch,No TCD
+379,1452.0,0,1312.0,1,CML,20-40,No gender mismatch,No TCD
+380,103.0,0,103.0,0,AML,20-40,Gender mismatch,No TCD
+381,129.0,0,129.0,0,CML,20-40,No gender mismatch,No TCD
+382,415.0,0,263.0,1,ALL,<=20,No gender mismatch,No TCD
+383,265.0,0,265.0,1,CML,20-40,No gender mismatch,No TCD
+384,119.0,0,119.0,1,AML,20-40,No gender mismatch,No TCD
+385,154.0,0,154.0,1,ALL,<=20,No gender mismatch,No TCD
+386,24.0,1,339.0,1,CML,>40,No gender mismatch,TCD
+387,66.0,0,57.0,1,ALL,>40,No gender mismatch,TCD
+388,53.0,1,1207.0,0,ALL,>40,No gender mismatch,TCD
+389,28.0,1,1181.0,0,CML,20-40,Gender mismatch,No TCD
+390,109.0,1,1270.0,0,CML,20-40,No gender mismatch,TCD
+391,32.0,1,334.0,0,CML,20-40,No gender mismatch,No TCD
+392,32.0,1,1256.0,0,CML,20-40,No gender mismatch,No TCD
+393,105.0,1,1311.0,0,ALL,20-40,No gender mismatch,No TCD
+394,76.0,0,76.0,1,CML,>40,No gender mismatch,TCD
+395,35.0,0,35.0,1,CML,>40,No gender mismatch,TCD
+396,986.0,0,986.0,0,AML,20-40,Gender mismatch,TCD
+397,71.0,0,71.0,1,AML,<=20,No gender mismatch,No TCD
+398,948.0,0,948.0,0,AML,>40,Gender mismatch,TCD
+399,791.0,0,557.0,1,AML,20-40,No gender mismatch,No TCD
+400,461.0,0,426.0,1,ALL,20-40,Gender mismatch,No TCD
+401,923.0,0,923.0,0,AML,20-40,No gender mismatch,TCD
+402,22.0,1,2016.0,0,CML,20-40,Gender mismatch,No TCD
+403,53.0,0,53.0,1,CML,20-40,No gender mismatch,No TCD
+404,1762.0,0,1762.0,0,ALL,<=20,No gender mismatch,No TCD
+405,2498.0,0,2498.0,0,ALL,20-40,No gender mismatch,No TCD
+406,57.0,0,57.0,1,CML,20-40,No gender mismatch,No TCD
+407,2463.0,0,2463.0,0,AML,>40,Gender mismatch,No TCD
+408,2449.0,0,2449.0,0,AML,>40,No gender mismatch,No TCD
+409,2437.0,0,2437.0,0,AML,20-40,No gender mismatch,No TCD
+410,2386.0,0,2386.0,0,AML,20-40,No gender mismatch,No TCD
+411,2204.0,0,2204.0,0,CML,>40,No gender mismatch,No TCD
+412,2134.0,0,2134.0,0,CML,20-40,No gender mismatch,No TCD
+413,526.0,0,365.0,1,ALL,20-40,Gender mismatch,No TCD
+414,1883.0,0,1883.0,0,ALL,20-40,No gender mismatch,No TCD
+415,61.0,0,61.0,1,CML,>40,Gender mismatch,No TCD
+416,1617.0,0,1617.0,0,AML,>40,No gender mismatch,No TCD
+417,1393.0,0,1393.0,0,AML,>40,Gender mismatch,No TCD
+418,1384.0,0,1384.0,0,CML,>40,No gender mismatch,No TCD
+419,28.0,0,28.0,1,ALL,>40,No gender mismatch,No TCD
+420,1372.0,0,1372.0,0,CML,>40,No gender mismatch,No TCD
+421,28.0,1,749.0,1,CML,>40,No gender mismatch,No TCD
+422,19.0,1,959.0,1,CML,>40,No gender mismatch,No TCD
+423,16.0,1,2374.0,0,AML,>40,No gender mismatch,No TCD
+424,42.0,1,1766.0,0,CML,>40,No gender mismatch,No TCD
+425,122.0,0,122.0,1,AML,>40,No gender mismatch,No TCD
+426,16.0,1,1696.0,0,CML,20-40,No gender mismatch,No TCD
+427,24.0,1,1501.0,1,CML,<=20,No gender mismatch,No TCD
+428,23.0,1,1276.0,0,AML,>40,No gender mismatch,No TCD
+429,21.0,1,182.0,1,CML,>40,No gender mismatch,No TCD
+430,23.0,1,461.0,1,CML,20-40,Gender mismatch,No TCD
+431,26.0,1,2239.0,0,CML,>40,No gender mismatch,No TCD
+432,24.0,1,2217.0,0,CML,<=20,Gender mismatch,No TCD
+433,37.0,1,119.0,1,CML,20-40,No gender mismatch,No TCD
+434,23.0,1,1805.0,0,CML,<=20,No gender mismatch,No TCD
+435,19.0,1,933.0,1,CML,20-40,No gender mismatch,No TCD
+436,21.0,1,1886.0,0,CML,20-40,Gender mismatch,No TCD
+437,26.0,1,195.0,1,AML,20-40,No gender mismatch,No TCD
+438,21.0,1,1768.0,0,CML,20-40,Gender mismatch,No TCD
+439,1899.0,0,1899.0,0,AML,<=20,Gender mismatch,No TCD
+440,14.0,1,138.0,1,CML,>40,No gender mismatch,No TCD
+441,18.0,1,1704.0,0,AML,20-40,No gender mismatch,No TCD
+442,1907.0,0,1907.0,0,CML,20-40,Gender mismatch,No TCD
+443,1042.0,0,1042.0,0,AML,20-40,No gender mismatch,No TCD
+444,19.0,1,1569.0,0,AML,20-40,No gender mismatch,No TCD
+445,22.0,1,1550.0,0,AML,>40,No gender mismatch,No TCD
+446,23.0,1,87.0,1,AML,20-40,No gender mismatch,No TCD
+447,25.0,1,1518.0,0,AML,>40,Gender mismatch,No TCD
+448,28.0,1,1647.0,0,AML,20-40,Gender mismatch,No TCD
+449,20.0,1,846.0,0,AML,>40,No gender mismatch,No TCD
+450,21.0,1,150.0,1,ALL,>40,No gender mismatch,No TCD
+451,25.0,1,1528.0,0,AML,20-40,No gender mismatch,No TCD
+452,29.0,1,1390.0,0,AML,20-40,No gender mismatch,No TCD
+453,295.0,0,295.0,1,ALL,20-40,No gender mismatch,No TCD
+454,18.0,1,209.0,1,ALL,>40,No gender mismatch,No TCD
+455,21.0,1,538.0,1,CML,20-40,No gender mismatch,No TCD
+456,20.0,1,1429.0,0,AML,20-40,Gender mismatch,No TCD
+457,25.0,1,1557.0,0,CML,>40,No gender mismatch,No TCD
+458,1251.0,0,272.0,1,AML,<=20,No gender mismatch,No TCD
+459,22.0,1,1252.0,0,AML,<=20,Gender mismatch,No TCD
+460,149.0,0,149.0,1,AML,20-40,No gender mismatch,No TCD
+461,35.0,1,1223.0,0,AML,>40,Gender mismatch,No TCD
+462,23.0,1,1104.0,0,AML,20-40,No gender mismatch,No TCD
+463,159.0,0,159.0,1,AML,20-40,No gender mismatch,TCD
+464,20.0,1,1806.0,0,CML,20-40,Gender mismatch,No TCD
+465,37.0,1,1646.0,0,ALL,20-40,No gender mismatch,No TCD
+466,24.0,1,1666.0,0,AML,20-40,Gender mismatch,No TCD
+467,68.0,1,1581.0,0,ALL,20-40,No gender mismatch,No TCD
+468,184.0,0,58.0,1,AML,>40,No gender mismatch,No TCD
+469,1454.0,0,1454.0,0,ALL,20-40,No gender mismatch,No TCD
+470,1557.0,0,1557.0,0,AML,>40,No gender mismatch,No TCD
+471,369.0,0,369.0,1,AML,>40,No gender mismatch,No TCD
+472,24.0,1,2051.0,0,CML,>40,No gender mismatch,No TCD
+473,15.0,1,1196.0,0,AML,20-40,No gender mismatch,No TCD
+474,17.0,1,1334.0,0,AML,20-40,No gender mismatch,No TCD
+475,30.0,1,1862.0,0,CML,20-40,No gender mismatch,No TCD
+476,20.0,1,1477.0,0,AML,<=20,No gender mismatch,No TCD
+477,22.0,1,1278.0,0,AML,<=20,No gender mismatch,No TCD
+478,14.0,1,1618.0,0,AML,<=20,No gender mismatch,No TCD
+479,23.0,1,174.0,1,AML,<=20,No gender mismatch,No TCD
+480,25.0,1,123.0,1,ALL,<=20,Gender mismatch,No TCD
+481,388.0,0,388.0,0,ALL,>40,No gender mismatch,No TCD
+482,65.0,1,827.0,0,ALL,20-40,No gender mismatch,No TCD
+483,63.0,1,755.0,0,ALL,20-40,Gender mismatch,No TCD
+484,264.0,1,666.0,0,ALL,<=20,Gender mismatch,No TCD
+485,22.0,1,50.0,1,CML,<=20,No gender mismatch,No TCD
+486,164.0,0,164.0,1,AML,20-40,No gender mismatch,No TCD
+487,27.0,1,1363.0,0,ALL,<=20,No gender mismatch,No TCD
+488,24.0,1,1443.0,0,CML,20-40,Gender mismatch,No TCD
+489,27.0,1,656.0,1,CML,>40,Gender mismatch,TCD
+490,47.0,1,990.0,0,AML,>40,Gender mismatch,No TCD
+491,19.0,1,798.0,0,AML,20-40,No gender mismatch,No TCD
+492,820.0,0,820.0,0,ALL,<=20,No gender mismatch,No TCD
+493,157.0,0,133.0,1,CML,20-40,Gender mismatch,No TCD
+494,36.0,1,82.0,1,CML,>40,No gender mismatch,No TCD
+495,32.0,1,112.0,1,CML,20-40,No gender mismatch,No TCD
+496,47.0,1,188.0,1,CML,20-40,No gender mismatch,No TCD
+497,26.0,1,2318.0,0,AML,20-40,Gender mismatch,TCD
+498,15.0,1,2003.0,0,AML,20-40,No gender mismatch,TCD
+499,20.0,1,76.0,1,ALL,>40,Gender mismatch,No TCD
+500,16.0,1,1723.0,0,CML,>40,Gender mismatch,No TCD
+501,17.0,1,94.0,1,CML,>40,No gender mismatch,No TCD
+502,25.0,1,491.0,1,CML,>40,No gender mismatch,No TCD
+503,15.0,1,1446.0,0,CML,>40,No gender mismatch,No TCD
+504,19.0,1,1135.0,0,CML,20-40,Gender mismatch,No TCD
+505,15.0,1,1044.0,0,AML,>40,No gender mismatch,No TCD
+506,2275.0,0,2275.0,0,CML,>40,No gender mismatch,No TCD
+507,2220.0,0,2220.0,0,CML,>40,No gender mismatch,No TCD
+508,2225.0,0,2225.0,0,AML,20-40,No gender mismatch,No TCD
+509,1861.0,0,1861.0,0,AML,20-40,No gender mismatch,No TCD
+510,1854.0,0,1854.0,0,AML,>40,No gender mismatch,No TCD
+511,1861.0,0,1861.0,0,AML,20-40,Gender mismatch,No TCD
+512,1507.0,0,1507.0,0,CML,>40,No gender mismatch,No TCD
+513,428.0,0,340.0,1,ALL,<=20,No gender mismatch,No TCD
+514,367.0,0,367.0,1,AML,>40,No gender mismatch,No TCD
+515,1213.0,0,1213.0,0,CML,<=20,No gender mismatch,No TCD
+516,240.0,0,132.0,1,AML,>40,No gender mismatch,No TCD
+517,1492.0,0,1492.0,0,ALL,>40,No gender mismatch,No TCD
+518,1458.0,0,1458.0,0,CML,20-40,No gender mismatch,No TCD
+519,397.0,0,138.0,1,AML,>40,No gender mismatch,No TCD
+520,1070.0,0,1070.0,0,AML,<=20,Gender mismatch,No TCD
+521,24.0,1,2504.0,0,CML,>40,No gender mismatch,No TCD
+522,27.0,1,740.0,1,AML,20-40,No gender mismatch,TCD
+523,18.0,1,2550.0,0,CML,20-40,No gender mismatch,TCD
+524,26.0,1,757.0,1,CML,>40,No gender mismatch,TCD
+525,15.0,1,355.0,1,CML,>40,No gender mismatch,TCD
+526,28.0,1,2184.0,0,ALL,20-40,Gender mismatch,TCD
+527,34.0,1,596.0,1,CML,20-40,Gender mismatch,TCD
+528,6.0,0,6.0,1,ALL,<=20,No gender mismatch,TCD
+529,235.0,1,263.0,1,AML,>40,No gender mismatch,TCD
+530,117.0,1,2175.0,0,ALL,20-40,No gender mismatch,TCD
+531,37.0,1,2382.0,0,CML,20-40,Gender mismatch,TCD
+532,26.0,1,2182.0,0,ALL,>40,No gender mismatch,TCD
+533,23.0,1,602.0,1,CML,20-40,No gender mismatch,TCD
+534,18.0,1,139.0,1,CML,>40,No gender mismatch,TCD
+535,22.0,1,1807.0,1,AML,20-40,Gender mismatch,TCD
+536,33.0,1,159.0,1,CML,20-40,No gender mismatch,No TCD
+537,33.0,1,2168.0,0,CML,20-40,Gender mismatch,TCD
+538,23.0,1,1834.0,0,AML,20-40,No gender mismatch,TCD
+539,22.0,1,720.0,1,ALL,20-40,No gender mismatch,TCD
+540,30.0,1,212.0,1,AML,<=20,No gender mismatch,TCD
+541,40.0,1,187.0,1,CML,20-40,No gender mismatch,TCD
+542,19.0,1,211.0,1,AML,>40,No gender mismatch,TCD
+543,36.0,1,279.0,1,CML,20-40,No gender mismatch,TCD
+544,47.0,1,183.0,1,CML,>40,No gender mismatch,TCD
+545,40.0,1,1825.0,0,AML,20-40,No gender mismatch,TCD
+546,35.0,1,1813.0,0,ALL,20-40,No gender mismatch,TCD
+547,20.0,1,2239.0,0,CML,>40,No gender mismatch,TCD
+548,27.0,1,538.0,1,CML,>40,Gender mismatch,TCD
+549,37.0,1,1108.0,1,CML,>40,Gender mismatch,No TCD
+550,36.0,1,1524.0,0,ALL,20-40,No gender mismatch,TCD
+551,27.0,1,139.0,1,CML,20-40,No gender mismatch,TCD
+552,23.0,1,1559.0,0,AML,20-40,No gender mismatch,TCD
+553,30.0,1,362.0,1,CML,>40,Gender mismatch,TCD
+554,46.0,0,46.0,1,AML,20-40,No gender mismatch,TCD
+555,17.0,1,1835.0,0,CML,>40,No gender mismatch,TCD
+556,30.0,1,1356.0,0,AML,>40,No gender mismatch,TCD
+557,26.0,1,1685.0,1,CML,20-40,Gender mismatch,TCD
+558,30.0,1,1419.0,0,AML,>40,No gender mismatch,TCD
+559,35.0,1,1099.0,1,CML,>40,Gender mismatch,No TCD
+560,29.0,1,53.0,1,AML,20-40,Gender mismatch,TCD
+561,26.0,1,1496.0,0,ALL,20-40,No gender mismatch,TCD
+562,41.0,1,226.0,1,AML,20-40,No gender mismatch,TCD
+563,16.0,1,1496.0,1,CML,>40,No gender mismatch,TCD
+564,17.0,1,258.0,1,CML,>40,No gender mismatch,TCD
+565,34.0,1,1281.0,0,AML,20-40,No gender mismatch,TCD
+566,30.0,1,1203.0,0,AML,>40,No gender mismatch,TCD
+567,20.0,1,1478.0,0,CML,20-40,No gender mismatch,TCD
+568,28.0,1,315.0,1,CML,20-40,Gender mismatch,TCD
+569,181.0,1,1625.0,0,CML,>40,No gender mismatch,TCD
+570,18.0,1,1049.0,0,AML,>40,No gender mismatch,TCD
+571,26.0,1,187.0,1,CML,20-40,No gender mismatch,TCD
+572,20.0,1,936.0,0,AML,>40,No gender mismatch,TCD
+573,40.0,1,1217.0,0,ALL,>40,Gender mismatch,TCD
+574,21.0,1,1077.0,1,CML,>40,No gender mismatch,No TCD
+575,29.0,1,663.0,1,AML,>40,No gender mismatch,TCD
+576,15.0,1,336.0,1,CML,>40,No gender mismatch,TCD
+577,16.0,1,624.0,1,CML,>40,No gender mismatch,TCD
+578,17.0,1,959.0,0,ALL,20-40,No gender mismatch,TCD
+579,26.0,1,1062.0,0,AML,>40,Gender mismatch,TCD
+580,38.0,1,982.0,0,CML,<=20,No gender mismatch,No TCD
+581,102.0,1,770.0,0,CML,<=20,Gender mismatch,No TCD
+582,304.0,0,304.0,0,AML,20-40,Gender mismatch,No TCD
+583,637.0,0,446.0,1,ALL,<=20,Gender mismatch,No TCD
+584,244.0,0,203.0,1,ALL,20-40,Gender mismatch,No TCD
+585,263.0,0,165.0,1,ALL,20-40,No gender mismatch,No TCD
+586,213.0,0,213.0,0,ALL,<=20,Gender mismatch,No TCD
+587,168.0,0,168.0,0,AML,20-40,Gender mismatch,No TCD
+588,198.0,0,121.0,1,ALL,>40,No gender mismatch,TCD
+589,119.0,0,99.0,1,AML,20-40,No gender mismatch,TCD
+590,78.0,0,78.0,0,CML,20-40,No gender mismatch,No TCD
+591,396.0,0,396.0,0,ALL,20-40,No gender mismatch,No TCD
+592,245.0,0,104.0,1,ALL,<=20,Gender mismatch,No TCD
+593,42.0,0,42.0,0,CML,20-40,No gender mismatch,No TCD
+594,204.0,1,309.0,1,AML,<=20,No gender mismatch,No TCD
+595,44.0,1,377.0,1,CML,20-40,No gender mismatch,TCD
+596,201.0,0,201.0,0,ALL,20-40,No gender mismatch,No TCD
+597,1788.0,0,1788.0,0,CML,>40,No gender mismatch,TCD
+598,2406.0,0,873.0,1,CML,20-40,No gender mismatch,TCD
+599,29.0,1,2121.0,0,AML,>40,No gender mismatch,TCD
+600,25.0,1,2483.0,1,CML,>40,No gender mismatch,TCD
+601,25.0,1,430.0,1,CML,>40,No gender mismatch,TCD
+602,28.0,1,710.0,1,CML,20-40,No gender mismatch,TCD
+603,23.0,1,1904.0,0,CML,>40,No gender mismatch,TCD
+604,24.0,1,57.0,1,CML,20-40,No gender mismatch,TCD
+605,59.0,1,1909.0,0,ALL,20-40,Gender mismatch,TCD
+606,23.0,1,721.0,1,CML,>40,No gender mismatch,TCD
+607,29.0,1,1936.0,0,ALL,20-40,Gender mismatch,TCD
+608,31.0,1,457.0,1,AML,20-40,No gender mismatch,TCD
+609,28.0,1,102.0,1,ALL,20-40,No gender mismatch,TCD
+610,24.0,1,1179.0,1,ALL,20-40,No gender mismatch,TCD
+611,34.0,1,464.0,1,CML,>40,Gender mismatch,TCD
+612,38.0,1,1221.0,0,AML,20-40,No gender mismatch,TCD
+613,32.0,1,1290.0,1,AML,20-40,No gender mismatch,TCD
+614,24.0,1,222.0,1,AML,>40,Gender mismatch,TCD
+615,33.0,1,1159.0,0,CML,>40,No gender mismatch,TCD
+616,31.0,1,262.0,1,ALL,20-40,Gender mismatch,TCD
+617,18.0,1,1301.0,0,AML,<=20,No gender mismatch,No TCD
+618,15.0,1,1505.0,0,CML,20-40,No gender mismatch,No TCD
+619,15.0,1,1353.0,0,AML,20-40,Gender mismatch,No TCD
+620,15.0,1,58.0,1,AML,20-40,Gender mismatch,No TCD
+621,10.0,1,581.0,1,CML,>40,Gender mismatch,No TCD
+622,14.0,1,123.0,1,AML,20-40,Gender mismatch,No TCD
+623,14.0,1,907.0,0,CML,>40,No gender mismatch,No TCD
+624,15.0,1,650.0,0,CML,20-40,No gender mismatch,No TCD
+625,17.0,0,17.0,1,AML,>40,No gender mismatch,No TCD
+626,27.0,1,706.0,0,AML,>40,Gender mismatch,No TCD
+627,15.0,1,501.0,0,CML,20-40,No gender mismatch,No TCD
+628,13.0,1,1642.0,0,CML,>40,No gender mismatch,No TCD
+629,40.0,1,2161.0,0,AML,<=20,Gender mismatch,No TCD
+630,135.0,0,135.0,1,CML,>40,No gender mismatch,No TCD
+631,138.0,0,138.0,1,CML,>40,No gender mismatch,No TCD
+632,30.0,1,1932.0,0,CML,20-40,No gender mismatch,No TCD
+633,55.0,1,1980.0,0,CML,20-40,No gender mismatch,No TCD
+634,124.0,0,124.0,1,AML,20-40,No gender mismatch,No TCD
+635,49.0,1,105.0,1,CML,>40,No gender mismatch,No TCD
+636,87.0,0,87.0,1,ALL,20-40,Gender mismatch,No TCD
+637,28.0,1,153.0,1,CML,>40,No gender mismatch,No TCD
+638,40.0,1,1852.0,0,CML,<=20,No gender mismatch,No TCD
+639,20.0,1,253.0,1,CML,>40,No gender mismatch,No TCD
+640,69.0,1,1937.0,0,AML,20-40,Gender mismatch,No TCD
+641,127.0,0,127.0,1,AML,20-40,No gender mismatch,No TCD
+642,19.0,1,1685.0,0,CML,20-40,No gender mismatch,No TCD
+643,27.0,1,1575.0,0,CML,>40,Gender mismatch,No TCD
+644,17.0,1,1840.0,0,CML,>40,No gender mismatch,No TCD
+645,26.0,1,1523.0,0,CML,>40,No gender mismatch,No TCD
+646,41.0,1,1349.0,0,CML,20-40,No gender mismatch,No TCD
+647,43.0,1,90.0,1,CML,>40,No gender mismatch,No TCD
+648,23.0,1,1200.0,1,CML,20-40,No gender mismatch,No TCD
+649,30.0,1,62.0,1,CML,>40,No gender mismatch,No TCD
+650,53.0,1,1442.0,0,AML,>40,Gender mismatch,No TCD
+651,30.0,0,30.0,1,AML,20-40,Gender mismatch,No TCD
+652,26.0,1,1260.0,0,CML,>40,No gender mismatch,No TCD
+653,24.0,1,1340.0,0,CML,>40,No gender mismatch,No TCD
+654,27.0,1,1282.0,0,AML,20-40,Gender mismatch,No TCD
+655,21.0,1,51.0,1,CML,20-40,No gender mismatch,No TCD
+656,25.0,1,376.0,1,CML,20-40,Gender mismatch,No TCD
+657,41.0,1,265.0,1,CML,>40,No gender mismatch,No TCD
+658,21.0,0,21.0,1,AML,20-40,Gender mismatch,No TCD
+659,76.0,0,76.0,1,AML,20-40,No gender mismatch,No TCD
+660,45.0,1,515.0,0,CML,>40,No gender mismatch,No TCD
+661,718.0,0,718.0,0,CML,20-40,No gender mismatch,No TCD
+662,142.0,1,351.0,0,CML,20-40,No gender mismatch,No TCD
+663,14.0,1,181.0,0,CML,>40,Gender mismatch,No TCD
+664,417.0,0,417.0,0,AML,20-40,No gender mismatch,No TCD
+665,417.0,0,417.0,0,CML,20-40,No gender mismatch,No TCD
+666,417.0,0,417.0,0,CML,20-40,No gender mismatch,No TCD
+667,298.0,0,298.0,0,AML,<=20,No gender mismatch,No TCD
+668,286.0,0,286.0,1,CML,>40,No gender mismatch,No TCD
+669,67.0,0,67.0,1,AML,>40,No gender mismatch,No TCD
+670,24.0,1,1018.0,0,CML,20-40,No gender mismatch,No TCD
+671,86.0,1,224.0,1,CML,>40,No gender mismatch,No TCD
+672,107.0,0,107.0,1,AML,>40,No gender mismatch,TCD
+673,31.0,1,2812.0,0,AML,>40,No gender mismatch,TCD
+674,31.0,1,2824.0,0,AML,20-40,No gender mismatch,TCD
+675,198.0,0,198.0,1,AML,20-40,No gender mismatch,TCD
+676,54.0,0,54.0,1,ALL,>40,No gender mismatch,TCD
+677,22.0,1,963.0,1,AML,>40,No gender mismatch,TCD
+678,50.0,1,284.0,1,ALL,>40,No gender mismatch,TCD
+679,20.0,1,892.0,1,CML,>40,No gender mismatch,TCD
+680,14.0,0,14.0,1,ALL,>40,No gender mismatch,TCD
+681,28.0,1,873.0,1,CML,20-40,No gender mismatch,TCD
+682,27.0,1,2565.0,0,ALL,20-40,No gender mismatch,TCD
+683,2587.0,0,2587.0,0,ALL,20-40,No gender mismatch,TCD
+684,33.0,1,2453.0,0,ALL,20-40,No gender mismatch,TCD
+685,15.0,1,466.0,1,AML,>40,No gender mismatch,TCD
+686,41.0,1,2393.0,0,CML,20-40,No gender mismatch,TCD
+687,26.0,1,2549.0,0,CML,20-40,No gender mismatch,TCD
+688,294.0,1,2303.0,0,ALL,>40,Gender mismatch,TCD
+689,129.0,1,2217.0,0,ALL,<=20,Gender mismatch,TCD
+690,20.0,1,2154.0,0,CML,>40,Gender mismatch,TCD
+691,35.0,1,2051.0,0,AML,>40,No gender mismatch,TCD
+692,25.0,1,1725.0,0,AML,<=20,No gender mismatch,TCD
+693,40.0,1,381.0,1,CML,20-40,Gender mismatch,TCD
+694,27.0,1,1298.0,1,CML,>40,Gender mismatch,No TCD
+695,33.0,1,1440.0,0,CML,>40,No gender mismatch,No TCD
+696,24.0,1,470.0,1,CML,20-40,Gender mismatch,TCD
+697,21.0,1,432.0,1,CML,>40,Gender mismatch,No TCD
+698,26.0,1,248.0,0,ALL,20-40,No gender mismatch,No TCD
+699,24.0,1,214.0,1,CML,>40,Gender mismatch,TCD
+700,24.0,1,1435.0,0,AML,20-40,No gender mismatch,No TCD
+701,24.0,1,1337.0,0,AML,>40,Gender mismatch,TCD
+702,34.0,1,2364.0,0,ALL,>40,Gender mismatch,TCD
+703,30.0,1,321.0,1,CML,>40,No gender mismatch,TCD
+704,30.0,1,2245.0,0,AML,20-40,No gender mismatch,TCD
+705,61.0,1,955.0,1,CML,>40,Gender mismatch,TCD
+706,39.0,0,39.0,1,ALL,>40,No gender mismatch,No TCD
+707,127.0,1,362.0,1,CML,>40,Gender mismatch,No TCD
+708,26.0,1,916.0,0,CML,>40,Gender mismatch,No TCD
+709,19.0,1,804.0,0,CML,20-40,No gender mismatch,No TCD
+710,55.0,1,805.0,0,CML,>40,No gender mismatch,No TCD
+711,46.0,1,730.0,0,ALL,20-40,No gender mismatch,No TCD
+712,17.0,1,226.0,1,AML,>40,No gender mismatch,No TCD
+713,23.0,1,730.0,0,ALL,<=20,Gender mismatch,No TCD
+714,27.0,1,783.0,0,ALL,20-40,Gender mismatch,No TCD
+715,254.0,0,254.0,1,ALL,20-40,No gender mismatch,TCD
+716,20.0,1,368.0,0,AML,20-40,No gender mismatch,TCD
+717,38.0,1,134.0,1,AML,20-40,No gender mismatch,No TCD
+718,332.0,0,125.0,1,ALL,<=20,No gender mismatch,No TCD
+719,40.0,1,1046.0,0,AML,20-40,Gender mismatch,No TCD
+720,118.0,1,675.0,0,CML,20-40,No gender mismatch,No TCD
+721,19.0,1,974.0,0,CML,20-40,No gender mismatch,No TCD
+722,23.0,1,261.0,1,CML,>40,No gender mismatch,No TCD
+723,48.0,1,181.0,1,CML,20-40,No gender mismatch,No TCD
+724,26.0,1,1188.0,0,CML,20-40,No gender mismatch,No TCD
+725,26.0,1,998.0,0,AML,>40,No gender mismatch,No TCD
+726,18.0,1,914.0,0,AML,20-40,No gender mismatch,No TCD
+727,27.0,1,1070.0,0,AML,>40,No gender mismatch,No TCD
+728,9.0,0,9.0,1,CML,>40,Gender mismatch,No TCD
+729,28.0,1,1460.0,0,CML,20-40,No gender mismatch,No TCD
+730,30.0,1,1383.0,0,CML,>40,No gender mismatch,No TCD
+731,30.0,1,1215.0,0,CML,>40,No gender mismatch,No TCD
+732,23.0,1,1385.0,0,ALL,20-40,No gender mismatch,No TCD
+733,42.0,1,173.0,1,CML,>40,Gender mismatch,No TCD
+734,48.0,1,1297.0,1,CML,>40,No gender mismatch,No TCD
+735,24.0,1,1327.0,0,AML,20-40,No gender mismatch,No TCD
+736,35.0,1,287.0,1,AML,>40,No gender mismatch,No TCD
+737,24.0,1,2167.0,0,ALL,20-40,No gender mismatch,No TCD
+738,30.0,1,1773.0,0,AML,20-40,No gender mismatch,No TCD
+739,99.0,0,99.0,1,AML,>40,No gender mismatch,No TCD
+740,154.0,0,154.0,1,AML,>40,No gender mismatch,No TCD
+741,30.0,1,1523.0,0,AML,>40,No gender mismatch,No TCD
+742,26.0,1,1472.0,1,CML,>40,No gender mismatch,No TCD
+743,48.0,0,48.0,1,ALL,>40,No gender mismatch,No TCD
+744,84.0,0,84.0,1,CML,>40,No gender mismatch,No TCD
+745,26.0,1,1789.0,0,ALL,20-40,No gender mismatch,No TCD
+746,39.0,1,276.0,0,CML,20-40,Gender mismatch,No TCD
+747,25.0,1,1747.0,0,CML,20-40,No gender mismatch,No TCD
+748,26.0,1,1705.0,0,ALL,20-40,No gender mismatch,No TCD
+749,42.0,1,1566.0,0,CML,20-40,Gender mismatch,No TCD
+750,31.0,1,1691.0,0,ALL,<=20,No gender mismatch,No TCD
+751,73.0,0,32.0,1,CML,>40,No gender mismatch,No TCD
+752,1511.0,0,1511.0,0,AML,>40,Gender mismatch,No TCD
+753,1475.0,0,1475.0,0,ALL,>40,No gender mismatch,No TCD
+754,2184.0,0,1424.0,1,CML,20-40,No gender mismatch,No TCD
+755,47.0,0,47.0,1,AML,20-40,No gender mismatch,No TCD
+756,2345.0,0,756.0,1,CML,>40,No gender mismatch,No TCD
+757,1855.0,0,1855.0,0,CML,<=20,No gender mismatch,No TCD
+758,1530.0,0,1530.0,0,CML,20-40,No gender mismatch,No TCD
+759,65.0,1,1722.0,0,CML,<=20,Gender mismatch,No TCD
+760,124.0,0,124.0,1,ALL,<=20,Gender mismatch,No TCD
+761,35.0,1,82.0,1,ALL,>40,No gender mismatch,TCD
+762,43.0,1,752.0,0,AML,20-40,Gender mismatch,No TCD
+763,15.0,1,1495.0,0,AML,20-40,No gender mismatch,No TCD
+764,87.0,1,242.0,1,AML,20-40,Gender mismatch,No TCD
+765,8.0,0,8.0,1,AML,20-40,No gender mismatch,No TCD
+766,30.0,1,1190.0,0,AML,20-40,No gender mismatch,No TCD
+767,20.0,1,1178.0,0,AML,20-40,Gender mismatch,No TCD
+768,314.0,0,314.0,0,ALL,20-40,No gender mismatch,No TCD
+769,37.0,1,808.0,0,ALL,<=20,No gender mismatch,No TCD
+770,117.0,1,776.0,0,ALL,20-40,No gender mismatch,No TCD
+771,924.0,0,924.0,0,CML,>40,No gender mismatch,No TCD
+772,49.0,1,720.0,0,AML,20-40,No gender mismatch,No TCD
+773,1416.0,0,1416.0,0,CML,20-40,No gender mismatch,No TCD
+774,33.0,1,777.0,0,AML,<=20,No gender mismatch,No TCD
+775,27.0,1,97.0,1,AML,20-40,No gender mismatch,No TCD
+776,19.0,1,1212.0,0,CML,>40,Gender mismatch,No TCD
+777,814.0,0,814.0,0,AML,20-40,No gender mismatch,No TCD
+778,16.0,1,1207.0,0,AML,20-40,No gender mismatch,No TCD
+779,19.0,1,908.0,0,AML,20-40,No gender mismatch,No TCD
+780,23.0,1,1022.0,0,AML,>40,No gender mismatch,No TCD
+781,21.0,1,1571.0,0,CML,>40,No gender mismatch,No TCD
+782,25.0,1,331.0,1,CML,20-40,Gender mismatch,No TCD
+783,31.0,0,31.0,1,CML,20-40,No gender mismatch,No TCD
+784,23.0,1,606.0,0,ALL,<=20,No gender mismatch,No TCD
+785,24.0,1,543.0,0,ALL,20-40,No gender mismatch,No TCD
+786,451.0,0,451.0,0,CML,20-40,Gender mismatch,No TCD
+787,33.0,1,131.0,0,ALL,20-40,Gender mismatch,No TCD
+788,21.0,1,166.0,1,CML,>40,No gender mismatch,No TCD
+789,51.0,0,51.0,1,ALL,>40,No gender mismatch,No TCD
+790,17.0,1,130.0,0,ALL,20-40,No gender mismatch,No TCD
+791,35.0,0,35.0,1,CML,20-40,Gender mismatch,No TCD
+792,23.0,1,320.0,0,CML,>40,No gender mismatch,No TCD
+793,35.0,0,35.0,1,AML,20-40,No gender mismatch,No TCD
+794,367.0,0,367.0,0,AML,20-40,No gender mismatch,No TCD
+795,1083.0,0,1083.0,0,ALL,<=20,No gender mismatch,No TCD
+796,1102.0,0,1102.0,0,ALL,<=20,No gender mismatch,No TCD
+797,1389.0,0,1389.0,0,AML,20-40,No gender mismatch,No TCD
+798,381.0,0,381.0,0,AML,<=20,No gender mismatch,No TCD
+799,423.0,0,423.0,0,AML,>40,No gender mismatch,No TCD
+800,1340.0,0,1340.0,0,AML,>40,No gender mismatch,No TCD
+801,360.0,0,360.0,0,CML,20-40,No gender mismatch,No TCD
+802,1644.0,0,1644.0,0,AML,>40,No gender mismatch,No TCD
+803,739.0,0,739.0,0,CML,>40,No gender mismatch,No TCD
+804,735.0,0,735.0,0,AML,20-40,Gender mismatch,No TCD
+805,125.0,0,125.0,1,AML,>40,Gender mismatch,No TCD
+806,348.0,0,271.0,1,CML,>40,No gender mismatch,No TCD
+807,738.0,0,738.0,0,CML,20-40,No gender mismatch,No TCD
+808,1427.0,0,47.0,1,AML,<=20,No gender mismatch,TCD
+809,319.0,0,319.0,1,CML,>40,Gender mismatch,TCD
+810,503.0,0,503.0,0,ALL,20-40,No gender mismatch,TCD
+811,175.0,0,65.0,1,CML,>40,Gender mismatch,TCD
+812,370.0,0,370.0,1,CML,20-40,No gender mismatch,TCD
+813,45.0,0,45.0,1,AML,20-40,Gender mismatch,No TCD
+814,466.0,0,270.0,1,AML,20-40,No gender mismatch,TCD
+815,826.0,0,391.0,1,AML,20-40,No gender mismatch,TCD
+816,405.0,0,405.0,0,AML,20-40,No gender mismatch,No TCD
+817,2251.0,0,1719.0,1,CML,>40,No gender mismatch,TCD
+818,935.0,0,935.0,1,CML,20-40,No gender mismatch,No TCD
+819,180.0,0,180.0,1,CML,20-40,Gender mismatch,TCD
+820,57.0,0,57.0,0,ALL,20-40,No gender mismatch,No TCD
+821,148.0,0,148.0,0,AML,20-40,No gender mismatch,No TCD
+822,1848.0,0,1848.0,0,CML,>40,No gender mismatch,No TCD
+823,1761.0,0,108.0,1,CML,>40,No gender mismatch,No TCD
+824,1553.0,0,1553.0,0,AML,20-40,No gender mismatch,No TCD
+825,122.0,0,56.0,1,AML,>40,No gender mismatch,No TCD
+826,231.0,0,231.0,1,CML,>40,Gender mismatch,No TCD
+827,1653.0,0,1653.0,0,CML,20-40,No gender mismatch,No TCD
+828,1550.0,0,1550.0,0,CML,>40,No gender mismatch,No TCD
+829,446.0,0,56.0,1,CML,20-40,Gender mismatch,No TCD
+830,14.0,0,14.0,1,CML,>40,No gender mismatch,No TCD
+831,66.0,0,66.0,1,CML,>40,Gender mismatch,No TCD
+832,373.0,0,196.0,1,AML,20-40,No gender mismatch,No TCD
+833,106.0,0,106.0,1,AML,20-40,No gender mismatch,No TCD
+834,336.0,0,336.0,1,AML,20-40,No gender mismatch,No TCD
+835,1546.0,0,1059.0,1,CML,20-40,No gender mismatch,No TCD
+836,1451.0,0,1451.0,0,AML,20-40,No gender mismatch,No TCD
+837,1223.0,0,1223.0,0,CML,20-40,No gender mismatch,No TCD
+838,1318.0,0,183.0,1,CML,>40,No gender mismatch,No TCD
+839,391.0,0,391.0,1,CML,20-40,No gender mismatch,No TCD
+840,1421.0,0,1421.0,0,CML,>40,No gender mismatch,No TCD
+841,1374.0,0,1374.0,0,ALL,<=20,Gender mismatch,No TCD
+842,287.0,0,287.0,1,AML,20-40,No gender mismatch,No TCD
+843,1263.0,0,1263.0,0,CML,>40,No gender mismatch,No TCD
+844,60.0,0,60.0,1,ALL,>40,No gender mismatch,No TCD
+845,1354.0,0,1354.0,1,CML,>40,No gender mismatch,No TCD
+846,1222.0,0,483.0,1,AML,20-40,No gender mismatch,No TCD
+847,975.0,0,975.0,0,CML,>40,No gender mismatch,No TCD
+848,1227.0,0,1227.0,0,AML,20-40,No gender mismatch,No TCD
+849,1045.0,0,1045.0,0,CML,20-40,No gender mismatch,No TCD
+850,1214.0,0,1214.0,0,AML,>40,No gender mismatch,No TCD
+851,1169.0,0,1169.0,0,CML,>40,Gender mismatch,No TCD
+852,1188.0,0,1188.0,0,CML,20-40,Gender mismatch,No TCD
+853,1197.0,0,667.0,1,CML,>40,Gender mismatch,No TCD
+854,1096.0,0,1096.0,0,CML,>40,Gender mismatch,No TCD
+855,1114.0,0,1114.0,0,CML,>40,No gender mismatch,No TCD
+856,64.0,0,64.0,1,AML,>40,No gender mismatch,No TCD
+857,919.0,0,919.0,0,CML,20-40,No gender mismatch,No TCD
+858,985.0,0,985.0,0,CML,20-40,No gender mismatch,No TCD
+859,1066.0,0,1066.0,0,ALL,20-40,Gender mismatch,No TCD
+860,115.0,0,115.0,1,CML,>40,Gender mismatch,No TCD
+861,1028.0,0,1028.0,0,AML,<=20,No gender mismatch,No TCD
+862,945.0,0,945.0,0,AML,20-40,No gender mismatch,No TCD
+863,133.0,0,133.0,1,CML,>40,No gender mismatch,No TCD
+864,983.0,0,983.0,0,ALL,20-40,No gender mismatch,No TCD
+865,23.0,1,1330.0,0,AML,>40,No gender mismatch,No TCD
+866,941.0,0,941.0,0,CML,>40,No gender mismatch,No TCD
+867,381.0,0,381.0,0,AML,20-40,Gender mismatch,No TCD
+868,767.0,0,767.0,0,CML,>40,Gender mismatch,No TCD
+869,185.0,0,185.0,1,AML,>40,No gender mismatch,No TCD
+870,191.0,0,191.0,1,CML,>40,No gender mismatch,No TCD
+871,272.0,0,272.0,1,CML,20-40,Gender mismatch,No TCD
+872,38.0,1,397.0,1,AML,20-40,No gender mismatch,No TCD
+873,802.0,0,802.0,1,CML,>40,Gender mismatch,No TCD
+874,800.0,0,800.0,1,CML,>40,No gender mismatch,No TCD
+875,763.0,0,763.0,0,CML,20-40,No gender mismatch,No TCD
+876,793.0,0,793.0,0,CML,20-40,No gender mismatch,No TCD
+877,284.0,0,284.0,1,CML,>40,Gender mismatch,No TCD
+878,365.0,0,365.0,0,CML,20-40,No gender mismatch,No TCD
+879,375.0,0,375.0,0,AML,>40,No gender mismatch,No TCD
+880,123.0,0,80.0,1,AML,>40,No gender mismatch,No TCD
+881,97.0,0,97.0,1,CML,>40,Gender mismatch,No TCD
+882,324.0,0,324.0,1,CML,>40,No gender mismatch,No TCD
+883,184.0,0,134.0,1,CML,20-40,Gender mismatch,No TCD
+884,189.0,0,189.0,0,AML,20-40,No gender mismatch,No TCD
+885,132.0,0,132.0,0,AML,>40,Gender mismatch,No TCD
+886,648.0,0,648.0,0,AML,<=20,No gender mismatch,No TCD
+887,35.0,1,1447.0,1,CML,>40,Gender mismatch,TCD
+888,56.0,1,2314.0,0,ALL,20-40,No gender mismatch,No TCD
+889,46.0,1,2037.0,0,CML,20-40,No gender mismatch,TCD
+890,49.0,1,2561.0,0,AML,20-40,No gender mismatch,TCD
+891,43.0,0,43.0,1,AML,20-40,No gender mismatch,TCD
+892,24.0,1,397.0,1,AML,>40,No gender mismatch,TCD
+893,38.0,1,468.0,1,CML,>40,No gender mismatch,TCD
+894,153.0,0,153.0,1,ALL,<=20,Gender mismatch,No TCD
+895,1341.0,0,1341.0,1,ALL,<=20,Gender mismatch,No TCD
+896,47.0,1,1488.0,0,CML,20-40,No gender mismatch,TCD
+897,1629.0,0,1629.0,0,AML,<=20,No gender mismatch,No TCD
+898,26.0,1,1095.0,1,CML,20-40,Gender mismatch,TCD
+899,1453.0,0,1453.0,0,AML,<=20,No gender mismatch,No TCD
+900,1469.0,0,1469.0,0,AML,<=20,Gender mismatch,No TCD
+901,20.0,1,119.0,0,AML,<=20,Gender mismatch,TCD
+902,20.0,1,194.0,1,CML,>40,Gender mismatch,TCD
+903,36.0,1,154.0,1,AML,>40,No gender mismatch,TCD
+904,22.0,1,96.0,0,AML,20-40,Gender mismatch,TCD
+905,20.0,1,127.0,0,AML,>40,Gender mismatch,TCD
+906,29.0,1,103.0,0,AML,>40,No gender mismatch,TCD
+907,21.0,1,2022.0,0,AML,20-40,Gender mismatch,No TCD
+908,22.0,1,141.0,1,CML,>40,No gender mismatch,No TCD
+909,40.0,1,1936.0,0,ALL,<=20,No gender mismatch,No TCD
+910,23.0,1,214.0,1,ALL,20-40,No gender mismatch,No TCD
+911,33.0,1,96.0,1,ALL,20-40,No gender mismatch,No TCD
+912,35.0,1,966.0,0,CML,20-40,No gender mismatch,No TCD
+913,41.0,1,669.0,0,CML,20-40,Gender mismatch,No TCD
+914,25.0,1,685.0,0,CML,20-40,No gender mismatch,No TCD
+915,15.0,1,979.0,0,AML,<=20,Gender mismatch,No TCD
+916,26.0,1,90.0,1,AML,>40,No gender mismatch,No TCD
+917,17.0,1,215.0,1,CML,>40,Gender mismatch,No TCD
+918,28.0,1,340.0,1,ALL,20-40,No gender mismatch,No TCD
+919,29.0,1,104.0,1,AML,>40,No gender mismatch,No TCD
+920,27.0,1,579.0,1,CML,>40,No gender mismatch,No TCD
+921,168.0,1,216.0,1,ALL,>40,Gender mismatch,No TCD
+922,18.0,1,1640.0,0,AML,20-40,No gender mismatch,No TCD
+923,33.0,1,1451.0,0,ALL,<=20,Gender mismatch,No TCD
+924,276.0,1,699.0,0,CML,>40,No gender mismatch,No TCD
+925,24.0,1,479.0,0,AML,>40,No gender mismatch,No TCD
+926,29.0,1,613.0,0,CML,20-40,No gender mismatch,No TCD
+927,26.0,1,50.0,0,ALL,20-40,No gender mismatch,No TCD
+928,142.0,0,142.0,1,CML,<=20,No gender mismatch,No TCD
+929,22.0,1,1114.0,0,CML,20-40,No gender mismatch,No TCD
+930,26.0,1,927.0,0,CML,>40,No gender mismatch,No TCD
+931,151.0,1,1083.0,0,CML,>40,No gender mismatch,No TCD
+932,29.0,1,355.0,1,CML,<=20,No gender mismatch,No TCD
+933,58.0,1,1719.0,0,AML,20-40,Gender mismatch,No TCD
+934,27.0,1,1425.0,0,CML,20-40,No gender mismatch,No TCD
+935,122.0,1,1316.0,0,CML,20-40,Gender mismatch,No TCD
+936,16.0,1,1302.0,0,CML,20-40,No gender mismatch,No TCD
+937,59.0,1,79.0,1,CML,>40,Gender mismatch,No TCD
+938,12.0,1,804.0,1,CML,20-40,No gender mismatch,No TCD
+939,39.0,1,118.0,1,CML,>40,Gender mismatch,No TCD
+940,22.0,1,1124.0,0,CML,>40,Gender mismatch,No TCD
+941,32.0,1,1033.0,0,ALL,20-40,Gender mismatch,No TCD
+942,29.0,1,1005.0,0,CML,20-40,No gender mismatch,No TCD
+943,40.0,1,68.0,1,CML,>40,Gender mismatch,No TCD
+944,27.0,1,927.0,0,AML,20-40,No gender mismatch,No TCD
+945,22.0,1,910.0,0,AML,20-40,No gender mismatch,No TCD
+946,34.0,1,804.0,0,CML,20-40,Gender mismatch,No TCD
+947,27.0,1,784.0,0,ALL,20-40,Gender mismatch,No TCD
+948,1825.0,0,1825.0,0,AML,>40,No gender mismatch,No TCD
+949,1977.0,0,1977.0,1,ALL,>40,No gender mismatch,No TCD
+950,657.0,0,657.0,0,AML,>40,No gender mismatch,No TCD
+951,1817.0,0,1817.0,0,AML,>40,No gender mismatch,No TCD
+952,380.0,0,380.0,0,CML,20-40,Gender mismatch,No TCD
+953,1097.0,0,1097.0,0,CML,20-40,No gender mismatch,TCD
+954,279.0,0,279.0,0,ALL,20-40,No gender mismatch,No TCD
+955,537.0,0,537.0,0,AML,<=20,No gender mismatch,No TCD
+956,1064.0,0,1064.0,0,AML,>40,No gender mismatch,No TCD
+957,1404.0,0,1404.0,0,AML,>40,No gender mismatch,No TCD
+958,1467.0,0,1467.0,0,CML,>40,No gender mismatch,TCD
+959,378.0,0,378.0,0,CML,>40,No gender mismatch,TCD
+960,721.0,0,721.0,0,AML,20-40,No gender mismatch,No TCD
+961,1091.0,0,1091.0,0,CML,20-40,Gender mismatch,No TCD
+962,86.0,0,86.0,0,ALL,<=20,No gender mismatch,No TCD
+963,1103.0,0,410.0,1,CML,20-40,No gender mismatch,TCD
+964,16.0,1,1249.0,0,AML,20-40,No gender mismatch,No TCD
+965,24.0,1,1378.0,0,AML,20-40,No gender mismatch,No TCD
+966,25.0,1,1097.0,0,ALL,20-40,No gender mismatch,No TCD
+967,32.0,1,1275.0,0,ALL,20-40,Gender mismatch,No TCD
+968,14.0,1,168.0,1,AML,>40,No gender mismatch,No TCD
+969,59.0,0,59.0,1,CML,20-40,No gender mismatch,No TCD
+970,16.0,1,731.0,0,AML,20-40,No gender mismatch,No TCD
+971,22.0,1,730.0,0,AML,20-40,No gender mismatch,No TCD
+972,113.0,1,455.0,1,AML,20-40,No gender mismatch,No TCD
+973,40.0,1,728.0,0,CML,<=20,No gender mismatch,No TCD
+974,35.0,1,743.0,0,AML,<=20,Gender mismatch,No TCD
+975,26.0,1,177.0,1,CML,20-40,Gender mismatch,No TCD
+976,38.0,1,356.0,0,CML,20-40,No gender mismatch,No TCD
+977,14.0,1,130.0,0,ALL,<=20,No gender mismatch,No TCD
+978,25.0,1,88.0,0,ALL,>40,Gender mismatch,No TCD
+979,35.0,1,322.0,0,ALL,20-40,No gender mismatch,No TCD
+980,220.0,0,151.0,1,AML,20-40,No gender mismatch,No TCD
+981,19.0,1,128.0,0,AML,>40,No gender mismatch,No TCD
+982,20.0,1,673.0,0,ALL,20-40,Gender mismatch,No TCD
+983,18.0,1,367.0,0,AML,20-40,No gender mismatch,No TCD
+984,19.0,1,109.0,1,AML,20-40,No gender mismatch,No TCD
+985,24.0,1,367.0,0,AML,>40,No gender mismatch,No TCD
+986,13.0,1,455.0,0,AML,20-40,No gender mismatch,No TCD
+987,23.0,1,280.0,0,AML,20-40,No gender mismatch,No TCD
+988,28.0,1,144.0,1,ALL,>40,No gender mismatch,No TCD
+989,20.0,1,479.0,0,AML,20-40,No gender mismatch,No TCD
+990,82.0,1,1025.0,0,AML,20-40,No gender mismatch,No TCD
+991,24.0,1,74.0,1,CML,>40,No gender mismatch,No TCD
+992,31.0,1,2062.0,0,AML,20-40,No gender mismatch,No TCD
+993,71.0,0,71.0,1,ALL,<=20,Gender mismatch,No TCD
+994,49.0,1,1947.0,0,ALL,20-40,Gender mismatch,TCD
+995,50.0,1,1872.0,0,AML,20-40,No gender mismatch,TCD
+996,1142.0,0,1142.0,0,AML,20-40,No gender mismatch,No TCD
+997,34.0,1,1076.0,0,AML,>40,No gender mismatch,TCD
+998,223.0,1,680.0,1,ALL,>40,No gender mismatch,No TCD
+999,41.0,1,551.0,1,ALL,20-40,Gender mismatch,No TCD
+1000,1171.0,0,1171.0,0,ALL,<=20,Gender mismatch,No TCD
+1001,25.0,1,26.0,0,AML,<=20,Gender mismatch,TCD
+1002,157.0,0,157.0,0,ALL,20-40,No gender mismatch,No TCD
+1003,21.0,0,21.0,1,AML,20-40,No gender mismatch,No TCD
+1004,580.0,0,580.0,0,AML,<=20,No gender mismatch,No TCD
+1005,196.0,1,395.0,0,AML,>40,Gender mismatch,No TCD
+1006,21.0,1,95.0,1,AML,>40,No gender mismatch,No TCD
+1007,24.0,1,804.0,0,AML,20-40,No gender mismatch,No TCD
+1008,1812.0,0,1812.0,0,ALL,<=20,Gender mismatch,No TCD
+1009,1238.0,0,1238.0,0,AML,<=20,No gender mismatch,No TCD
+1010,36.0,1,207.0,1,AML,>40,No gender mismatch,No TCD
+1011,330.0,0,330.0,1,AML,>40,Gender mismatch,No TCD
+1012,24.0,1,1795.0,0,AML,>40,No gender mismatch,No TCD
+1013,32.0,1,1136.0,1,AML,>40,No gender mismatch,No TCD
+1014,56.0,1,1606.0,0,ALL,20-40,No gender mismatch,No TCD
+1015,120.0,1,1164.0,1,CML,20-40,No gender mismatch,No TCD
+1016,26.0,1,1558.0,0,ALL,20-40,No gender mismatch,No TCD
+1017,3.0,1,1502.0,0,CML,20-40,No gender mismatch,No TCD
+1018,29.0,1,436.0,1,AML,20-40,No gender mismatch,No TCD
+1019,25.0,1,1855.0,0,AML,20-40,Gender mismatch,No TCD
+1020,100.0,1,1718.0,0,ALL,20-40,No gender mismatch,No TCD
+1021,28.0,1,1739.0,0,AML,<=20,No gender mismatch,No TCD
+1022,19.0,1,1011.0,0,CML,20-40,No gender mismatch,No TCD
+1023,745.0,0,745.0,0,AML,<=20,Gender mismatch,No TCD
+1024,1025.0,0,1025.0,0,AML,20-40,No gender mismatch,No TCD
+1025,22.0,1,941.0,0,CML,>40,No gender mismatch,No TCD
+1026,1011.0,0,1011.0,0,CML,<=20,Gender mismatch,No TCD
+1027,962.0,0,962.0,0,CML,>40,No gender mismatch,No TCD
+1028,141.0,0,141.0,1,ALL,>40,No gender mismatch,No TCD
+1029,27.0,1,1991.0,0,ALL,<=20,Gender mismatch,No TCD
+1030,33.0,1,238.0,1,ALL,<=20,Gender mismatch,No TCD
+1031,28.0,1,204.0,1,ALL,20-40,No gender mismatch,No TCD
+1032,132.0,0,132.0,1,AML,>40,No gender mismatch,No TCD
+1033,46.0,1,222.0,1,AML,>40,No gender mismatch,No TCD
+1034,201.0,1,1831.0,0,AML,20-40,No gender mismatch,No TCD
+1035,1081.0,0,1081.0,0,ALL,20-40,No gender mismatch,No TCD
+1036,91.0,1,1326.0,0,CML,20-40,No gender mismatch,No TCD
+1037,25.0,1,1284.0,0,ALL,<=20,Gender mismatch,No TCD
+1038,29.0,1,115.0,1,ALL,20-40,No gender mismatch,No TCD
+1039,211.0,0,117.0,1,ALL,20-40,No gender mismatch,No TCD
+1040,68.0,1,215.0,1,AML,20-40,Gender mismatch,No TCD
+1041,112.0,0,92.0,1,ALL,<=20,No gender mismatch,No TCD
+1042,21.0,1,1374.0,0,CML,20-40,No gender mismatch,No TCD
+1043,82.0,1,246.0,1,CML,20-40,No gender mismatch,No TCD
+1044,23.0,1,1305.0,0,AML,20-40,No gender mismatch,No TCD
+1045,39.0,1,2026.0,0,CML,>40,No gender mismatch,No TCD
+1046,18.0,1,2483.0,0,AML,<=20,No gender mismatch,No TCD
+1047,13.0,1,2443.0,0,ALL,<=20,No gender mismatch,No TCD
+1048,45.0,1,2001.0,0,AML,<=20,No gender mismatch,No TCD
+1049,31.0,1,1980.0,0,AML,<=20,Gender mismatch,No TCD
+1050,607.0,0,561.0,1,CML,20-40,Gender mismatch,No TCD
+1051,2267.0,0,2267.0,0,CML,20-40,No gender mismatch,No TCD
+1052,413.0,0,244.0,1,ALL,<=20,Gender mismatch,No TCD
+1053,2310.0,0,1740.0,1,AML,<=20,Gender mismatch,No TCD
+1054,12.0,0,12.0,1,AML,<=20,No gender mismatch,No TCD
+1055,2038.0,0,2038.0,0,CML,20-40,No gender mismatch,No TCD
+1056,2121.0,0,2121.0,0,AML,<=20,No gender mismatch,No TCD
+1057,466.0,0,305.0,1,AML,>40,No gender mismatch,No TCD
+1058,263.0,0,188.0,1,ALL,>40,No gender mismatch,No TCD
+1059,1875.0,0,1875.0,0,CML,20-40,No gender mismatch,No TCD
+1060,1643.0,0,1643.0,0,CML,20-40,Gender mismatch,No TCD
+1061,1554.0,0,1554.0,0,AML,20-40,No gender mismatch,No TCD
+1062,1553.0,0,1553.0,0,AML,>40,Gender mismatch,No TCD
+1063,41.0,0,35.0,1,AML,20-40,No gender mismatch,No TCD
+1064,1420.0,0,1420.0,0,CML,20-40,No gender mismatch,No TCD
+1065,177.0,0,89.0,1,ALL,<=20,Gender mismatch,No TCD
+1066,734.0,0,497.0,1,AML,20-40,No gender mismatch,No TCD
+1067,1211.0,0,1211.0,0,AML,<=20,No gender mismatch,No TCD
+1068,1090.0,0,776.0,1,CML,>40,No gender mismatch,TCD
+1069,819.0,0,819.0,0,CML,>40,No gender mismatch,No TCD
+1070,27.0,1,1682.0,0,ALL,<=20,Gender mismatch,No TCD
+1071,17.0,1,2102.0,0,ALL,<=20,No gender mismatch,No TCD
+1072,32.0,1,2103.0,0,AML,<=20,No gender mismatch,No TCD
+1073,16.0,1,1942.0,0,ALL,20-40,No gender mismatch,No TCD
+1074,20.0,1,1620.0,0,CML,>40,No gender mismatch,No TCD
+1075,21.0,1,1529.0,0,AML,20-40,Gender mismatch,No TCD
+1076,26.0,1,1509.0,0,CML,>40,No gender mismatch,No TCD
+1077,21.0,1,1494.0,0,AML,20-40,No gender mismatch,No TCD
+1078,24.0,1,1381.0,0,AML,20-40,No gender mismatch,No TCD
+1079,34.0,1,1354.0,0,CML,20-40,No gender mismatch,No TCD
+1080,26.0,1,1153.0,0,CML,20-40,No gender mismatch,No TCD
+1081,24.0,1,1239.0,0,CML,>40,Gender mismatch,No TCD
+1082,24.0,1,1111.0,0,CML,20-40,Gender mismatch,No TCD
+1083,18.0,1,1004.0,0,CML,>40,No gender mismatch,No TCD
+1084,20.0,1,30.0,1,AML,20-40,No gender mismatch,No TCD
+1085,20.0,1,1809.0,0,AML,20-40,No gender mismatch,No TCD
+1086,15.0,1,1516.0,0,AML,20-40,No gender mismatch,No TCD
+1087,285.0,0,285.0,0,CML,>40,No gender mismatch,No TCD
+1088,41.0,1,238.0,0,CML,>40,No gender mismatch,No TCD
+1089,124.0,0,124.0,0,AML,>40,No gender mismatch,No TCD
+1090,2051.0,0,2051.0,0,CML,20-40,No gender mismatch,No TCD
+1091,67.0,0,67.0,0,CML,>40,Gender mismatch,No TCD
+1092,2206.0,0,2206.0,0,CML,>40,No gender mismatch,No TCD
+1093,293.0,0,293.0,0,CML,20-40,Gender mismatch,No TCD
+1094,210.0,0,210.0,0,AML,<=20,No gender mismatch,No TCD
+1095,257.0,0,257.0,0,CML,>40,Gender mismatch,No TCD
+1096,155.0,0,155.0,0,AML,<=20,No gender mismatch,No TCD
+1097,95.0,0,95.0,0,CML,>40,Gender mismatch,No TCD
+1098,30.0,1,2288.0,0,CML,20-40,Gender mismatch,No TCD
+1099,49.0,0,49.0,1,CML,>40,No gender mismatch,No TCD
+1100,1767.0,0,1767.0,0,CML,20-40,No gender mismatch,No TCD
+1101,22.0,1,676.0,0,ALL,20-40,No gender mismatch,No TCD
+1102,30.0,1,596.0,0,AML,20-40,No gender mismatch,No TCD
+1103,1268.0,0,1268.0,0,CML,>40,No gender mismatch,No TCD
+1104,406.0,0,406.0,0,AML,>40,No gender mismatch,No TCD
+1105,40.0,0,40.0,1,AML,20-40,No gender mismatch,No TCD
+1106,716.0,0,716.0,0,ALL,20-40,No gender mismatch,No TCD
+1107,97.0,1,2043.0,0,CML,<=20,Gender mismatch,No TCD
+1108,171.0,0,171.0,0,CML,<=20,No gender mismatch,No TCD
+1109,705.0,0,705.0,0,ALL,<=20,No gender mismatch,No TCD
+1110,546.0,0,546.0,0,ALL,<=20,Gender mismatch,No TCD
+1111,86.0,1,752.0,0,ALL,<=20,No gender mismatch,No TCD
+1112,14.0,1,872.0,0,ALL,<=20,No gender mismatch,No TCD
+1113,34.0,1,844.0,0,AML,<=20,No gender mismatch,No TCD
+1114,71.0,1,1450.0,0,AML,<=20,Gender mismatch,No TCD
+1115,38.0,1,1348.0,0,ALL,<=20,Gender mismatch,No TCD
+1116,39.0,1,111.0,1,ALL,<=20,Gender mismatch,No TCD
+1117,23.0,1,2082.0,0,ALL,<=20,No gender mismatch,No TCD
+1118,58.0,0,58.0,1,ALL,<=20,No gender mismatch,No TCD
+1119,25.0,1,1923.0,0,AML,<=20,No gender mismatch,No TCD
+1120,160.0,0,160.0,1,AML,20-40,No gender mismatch,No TCD
+1121,2350.0,0,2350.0,0,AML,20-40,No gender mismatch,No TCD
+1122,175.0,0,175.0,1,CML,20-40,Gender mismatch,No TCD
+1123,2156.0,0,2156.0,0,ALL,>40,No gender mismatch,No TCD
+1124,250.0,0,250.0,1,AML,20-40,No gender mismatch,No TCD
+1125,1566.0,0,1566.0,0,AML,>40,No gender mismatch,No TCD
+1126,2153.0,0,2153.0,0,AML,20-40,Gender mismatch,No TCD
+1127,1870.0,0,1870.0,0,CML,20-40,No gender mismatch,No TCD
+1128,1540.0,0,1540.0,0,ALL,20-40,No gender mismatch,No TCD
+1129,132.0,0,132.0,1,CML,>40,No gender mismatch,No TCD
+1130,70.0,0,70.0,1,CML,>40,Gender mismatch,No TCD
+1131,60.0,0,60.0,1,CML,>40,No gender mismatch,No TCD
+1132,1466.0,0,1466.0,0,AML,20-40,No gender mismatch,No TCD
+1133,1188.0,0,1188.0,0,AML,20-40,No gender mismatch,No TCD
+1134,823.0,0,823.0,0,AML,>40,No gender mismatch,No TCD
+1135,501.0,0,225.0,1,AML,>40,No gender mismatch,No TCD
+1136,1506.0,0,1506.0,0,CML,20-40,No gender mismatch,No TCD
+1137,54.0,0,54.0,1,CML,20-40,No gender mismatch,No TCD
+1138,594.0,0,594.0,0,AML,>40,No gender mismatch,No TCD
+1139,1066.0,0,1066.0,0,CML,20-40,Gender mismatch,No TCD
+1140,459.0,0,459.0,1,AML,20-40,No gender mismatch,No TCD
+1141,1109.0,0,1109.0,0,ALL,<=20,No gender mismatch,No TCD
+1142,6.0,0,6.0,1,ALL,<=20,No gender mismatch,No TCD
+1143,17.0,1,1552.0,0,ALL,<=20,Gender mismatch,No TCD
+1144,1280.0,0,1280.0,0,AML,>40,No gender mismatch,No TCD
+1145,1259.0,0,1259.0,0,AML,>40,Gender mismatch,No TCD
+1146,89.0,0,89.0,1,CML,>40,No gender mismatch,No TCD
+1147,21.0,0,21.0,1,CML,>40,No gender mismatch,No TCD
+1148,905.0,0,905.0,0,CML,>40,No gender mismatch,No TCD
+1149,589.0,0,589.0,0,CML,>40,No gender mismatch,No TCD
+1150,551.0,0,551.0,0,CML,>40,No gender mismatch,No TCD
+1151,731.0,0,731.0,0,CML,>40,No gender mismatch,No TCD
+1152,794.0,0,794.0,0,CML,>40,No gender mismatch,No TCD
+1153,693.0,0,329.0,1,CML,<=20,No gender mismatch,No TCD
+1154,708.0,0,708.0,0,CML,20-40,No gender mismatch,No TCD
+1155,449.0,0,449.0,0,CML,>40,No gender mismatch,No TCD
+1156,941.0,0,941.0,0,ALL,20-40,No gender mismatch,No TCD
+1157,148.0,0,148.0,1,CML,20-40,No gender mismatch,No TCD
+1158,25.0,1,413.0,0,CML,>40,No gender mismatch,No TCD
+1159,412.0,0,412.0,0,CML,20-40,No gender mismatch,No TCD
+1160,26.0,1,37.0,0,AML,20-40,No gender mismatch,No TCD
+1161,30.0,1,668.0,0,AML,20-40,No gender mismatch,No TCD
+1162,34.0,1,622.0,0,CML,20-40,No gender mismatch,No TCD
+1163,23.0,1,576.0,0,AML,20-40,Gender mismatch,No TCD
+1164,944.0,0,944.0,0,ALL,20-40,No gender mismatch,TCD
+1165,26.0,0,23.0,1,ALL,20-40,No gender mismatch,No TCD
+1166,179.0,0,179.0,0,AML,>40,No gender mismatch,No TCD
+1167,1213.0,0,1213.0,0,AML,20-40,No gender mismatch,No TCD
+1168,1789.0,0,1789.0,0,CML,20-40,No gender mismatch,No TCD
+1169,332.0,0,332.0,1,CML,>40,No gender mismatch,No TCD
+1170,1691.0,0,1691.0,0,AML,>40,No gender mismatch,No TCD
+1171,1663.0,0,1663.0,0,CML,>40,Gender mismatch,No TCD
+1172,31.0,0,31.0,1,ALL,20-40,No gender mismatch,No TCD
+1173,26.0,0,26.0,1,CML,>40,No gender mismatch,No TCD
+1174,1516.0,0,1516.0,0,AML,20-40,No gender mismatch,No TCD
+1175,1495.0,0,1495.0,0,CML,20-40,No gender mismatch,No TCD
+1176,1446.0,0,1446.0,0,CML,20-40,No gender mismatch,No TCD
+1177,420.0,0,390.0,1,ALL,20-40,No gender mismatch,No TCD
+1178,1425.0,0,1425.0,0,CML,>40,No gender mismatch,No TCD
+1179,1421.0,0,1421.0,0,ALL,20-40,No gender mismatch,No TCD
+1180,77.0,0,20.0,1,CML,>40,No gender mismatch,No TCD
+1181,47.0,0,47.0,1,CML,20-40,No gender mismatch,No TCD
+1182,1271.0,0,1271.0,0,CML,20-40,No gender mismatch,No TCD
+1183,1187.0,0,1187.0,0,AML,20-40,Gender mismatch,No TCD
+1184,998.0,0,998.0,0,CML,>40,Gender mismatch,No TCD
+1185,646.0,0,111.0,1,CML,>40,No gender mismatch,No TCD
+1186,921.0,0,921.0,0,CML,20-40,No gender mismatch,No TCD
+1187,84.0,0,84.0,1,CML,20-40,Gender mismatch,No TCD
+1188,91.0,0,91.0,1,ALL,20-40,No gender mismatch,No TCD
+1189,728.0,0,728.0,0,CML,>40,No gender mismatch,No TCD
+1190,711.0,0,711.0,0,ALL,<=20,No gender mismatch,No TCD
+1191,125.0,0,125.0,1,ALL,20-40,No gender mismatch,No TCD
+1192,634.0,0,634.0,0,CML,>40,No gender mismatch,No TCD
+1193,584.0,0,584.0,0,CML,20-40,No gender mismatch,No TCD
+1194,543.0,0,543.0,0,CML,>40,No gender mismatch,No TCD
+1195,529.0,0,529.0,0,CML,<=20,No gender mismatch,No TCD
+1196,473.0,0,473.0,0,CML,<=20,No gender mismatch,No TCD
+1197,1302.0,0,1302.0,0,CML,>40,Gender mismatch,TCD
+1198,30.0,1,658.0,0,AML,>40,No gender mismatch,TCD
+1199,45.0,1,368.0,1,CML,<=20,No gender mismatch,TCD
+1200,48.0,1,1151.0,0,CML,<=20,Gender mismatch,No TCD
+1201,1092.0,0,1092.0,0,CML,<=20,Gender mismatch,No TCD
+1202,1695.0,0,1695.0,0,CML,20-40,Gender mismatch,No TCD
+1203,1766.0,0,1766.0,0,CML,20-40,Gender mismatch,No TCD
+1204,1164.0,0,1164.0,0,AML,20-40,No gender mismatch,No TCD
+1205,1744.0,0,243.0,1,CML,>40,No gender mismatch,No TCD
+1206,1311.0,0,1311.0,0,CML,20-40,Gender mismatch,No TCD
+1207,1227.0,0,1227.0,0,CML,20-40,No gender mismatch,No TCD
+1208,1157.0,0,1157.0,0,CML,>40,Gender mismatch,No TCD
+1209,13.0,0,13.0,1,ALL,20-40,No gender mismatch,No TCD
+1210,20.0,1,1578.0,0,AML,20-40,No gender mismatch,No TCD
+1211,23.0,1,184.0,1,AML,>40,No gender mismatch,No TCD
+1212,17.0,1,2308.0,0,ALL,20-40,No gender mismatch,No TCD
+1213,313.0,0,313.0,0,AML,<=20,No gender mismatch,No TCD
+1214,15.0,1,2198.0,0,AML,20-40,No gender mismatch,No TCD
+1215,2254.0,0,2254.0,0,AML,20-40,Gender mismatch,No TCD
+1216,2094.0,0,2094.0,0,ALL,<=20,No gender mismatch,No TCD
+1217,1826.0,0,1826.0,0,AML,20-40,Gender mismatch,No TCD
+1218,13.0,1,1896.0,0,AML,>40,No gender mismatch,No TCD
+1219,9.0,1,1882.0,0,AML,<=20,No gender mismatch,No TCD
+1220,28.0,1,1021.0,0,CML,20-40,Gender mismatch,No TCD
+1221,23.0,1,253.0,0,ALL,<=20,No gender mismatch,No TCD
+1222,1759.0,0,543.0,1,CML,20-40,No gender mismatch,TCD
+1223,1120.0,0,200.0,1,CML,20-40,Gender mismatch,TCD
+1224,99.0,0,99.0,1,CML,20-40,No gender mismatch,TCD
+1225,1493.0,0,1493.0,0,CML,20-40,No gender mismatch,No TCD
+1226,1626.0,0,277.0,1,CML,20-40,Gender mismatch,TCD
+1227,1401.0,0,1401.0,0,CML,20-40,Gender mismatch,TCD
+1228,486.0,0,69.0,1,CML,20-40,Gender mismatch,TCD
+1229,420.0,0,228.0,1,CML,20-40,No gender mismatch,TCD
+1230,49.0,1,738.0,0,AML,20-40,No gender mismatch,No TCD
+1231,29.0,0,29.0,1,AML,20-40,No gender mismatch,No TCD
+1232,40.0,1,888.0,0,ALL,20-40,No gender mismatch,No TCD
+1233,71.0,0,71.0,1,AML,>40,No gender mismatch,No TCD
+1234,57.0,1,277.0,1,AML,20-40,Gender mismatch,No TCD
+1235,148.0,0,148.0,0,CML,>40,No gender mismatch,No TCD
+1236,14.0,0,14.0,1,AML,20-40,Gender mismatch,No TCD
+1237,47.0,1,1394.0,0,AML,>40,No gender mismatch,No TCD
+1238,133.0,0,133.0,1,CML,>40,No gender mismatch,No TCD
+1239,33.0,1,1695.0,0,ALL,>40,No gender mismatch,TCD
+1240,57.0,1,1401.0,0,AML,20-40,No gender mismatch,TCD
+1241,26.0,1,1890.0,0,ALL,20-40,No gender mismatch,TCD
+1242,28.0,1,117.0,1,AML,20-40,No gender mismatch,No TCD
+1243,85.0,0,85.0,1,AML,>40,No gender mismatch,No TCD
+1244,29.0,1,1800.0,0,ALL,20-40,No gender mismatch,TCD
+1245,50.0,1,166.0,1,AML,>40,No gender mismatch,TCD
+1246,294.0,0,294.0,0,AML,>40,No gender mismatch,No TCD
+1247,1584.0,0,97.0,1,CML,20-40,No gender mismatch,No TCD
+1248,292.0,0,292.0,1,AML,20-40,Gender mismatch,No TCD
+1249,1541.0,0,669.0,1,CML,20-40,No gender mismatch,No TCD
+1250,1398.0,0,1398.0,0,CML,>40,No gender mismatch,No TCD
+1251,2074.0,0,882.0,1,CML,<=20,No gender mismatch,No TCD
+1252,38.0,1,1741.0,0,AML,>40,No gender mismatch,No TCD
+1253,23.0,1,1140.0,0,ALL,20-40,No gender mismatch,No TCD
+1254,23.0,1,1505.0,0,AML,>40,No gender mismatch,No TCD
+1255,18.0,1,754.0,0,CML,>40,Gender mismatch,No TCD
+1256,20.0,1,861.0,0,CML,20-40,No gender mismatch,No TCD
+1257,25.0,1,717.0,0,CML,>40,Gender mismatch,No TCD
+1258,22.0,1,1608.0,0,ALL,20-40,No gender mismatch,No TCD
+1259,23.0,1,126.0,1,AML,>40,No gender mismatch,No TCD
+1260,73.0,1,1427.0,0,ALL,>40,No gender mismatch,No TCD
+1261,25.0,1,1316.0,0,ALL,>40,No gender mismatch,No TCD
+1262,15.0,1,573.0,0,CML,20-40,No gender mismatch,No TCD
+1263,20.0,1,975.0,0,CML,>40,Gender mismatch,No TCD
+1264,23.0,1,1826.0,0,AML,>40,No gender mismatch,No TCD
+1265,20.0,1,183.0,1,AML,>40,No gender mismatch,No TCD
+1266,20.0,1,1770.0,0,CML,20-40,Gender mismatch,No TCD
+1267,21.0,1,1972.0,0,CML,>40,No gender mismatch,No TCD
+1268,22.0,1,105.0,1,CML,>40,No gender mismatch,No TCD
+1269,22.0,1,368.0,1,CML,>40,No gender mismatch,No TCD
+1270,20.0,1,1937.0,0,CML,>40,Gender mismatch,No TCD
+1271,17.0,1,1721.0,0,AML,>40,No gender mismatch,No TCD
+1272,24.0,1,109.0,1,AML,20-40,No gender mismatch,No TCD
+1273,25.0,1,1970.0,0,CML,>40,No gender mismatch,No TCD
+1274,14.0,1,2036.0,0,CML,20-40,No gender mismatch,No TCD
+1275,21.0,1,1972.0,0,CML,>40,No gender mismatch,No TCD
+1276,20.0,1,1895.0,0,ALL,20-40,Gender mismatch,No TCD
+1277,15.0,1,1841.0,0,AML,>40,No gender mismatch,No TCD
+1278,22.0,1,202.0,1,CML,20-40,No gender mismatch,No TCD
+1279,25.0,1,1865.0,0,CML,<=20,Gender mismatch,No TCD
+1280,21.0,1,1699.0,0,AML,>40,No gender mismatch,No TCD
+1281,15.0,1,178.0,1,CML,20-40,No gender mismatch,No TCD
+1282,24.0,1,123.0,1,CML,>40,No gender mismatch,No TCD
+1283,108.0,1,1532.0,0,AML,>40,No gender mismatch,No TCD
+1284,15.0,1,1832.0,0,CML,20-40,Gender mismatch,No TCD
+1285,78.0,0,78.0,1,AML,>40,No gender mismatch,No TCD
+1286,19.0,1,1553.0,0,ALL,>40,No gender mismatch,No TCD
+1287,19.0,1,1531.0,0,ALL,20-40,No gender mismatch,No TCD
+1288,19.0,1,1466.0,0,CML,>40,No gender mismatch,No TCD
+1289,24.0,1,219.0,1,AML,20-40,No gender mismatch,No TCD
+1290,49.0,0,49.0,1,AML,>40,No gender mismatch,No TCD
+1291,13.0,1,251.0,1,CML,>40,No gender mismatch,No TCD
+1292,38.0,1,1504.0,0,CML,20-40,No gender mismatch,No TCD
+1293,129.0,1,1097.0,0,CML,>40,No gender mismatch,No TCD
+1294,75.0,1,237.0,0,ALL,20-40,No gender mismatch,No TCD
+1295,18.0,1,1125.0,0,AML,>40,No gender mismatch,No TCD
+1296,43.0,0,43.0,1,ALL,20-40,No gender mismatch,No TCD
+1297,18.0,1,104.0,0,ALL,>40,Gender mismatch,No TCD
+1298,66.0,1,108.0,0,AML,>40,No gender mismatch,No TCD
+1299,79.0,0,79.0,1,AML,>40,No gender mismatch,No TCD
+1300,17.0,1,108.0,0,AML,20-40,No gender mismatch,No TCD
+1301,25.0,1,101.0,1,ALL,>40,No gender mismatch,No TCD
+1302,24.0,1,107.0,1,CML,>40,No gender mismatch,No TCD
+1303,17.0,1,95.0,0,AML,20-40,No gender mismatch,No TCD
+1304,72.0,0,72.0,1,AML,>40,No gender mismatch,No TCD
+1305,18.0,1,1100.0,0,AML,20-40,No gender mismatch,No TCD
+1306,17.0,1,1109.0,0,CML,>40,Gender mismatch,No TCD
+1307,45.0,1,384.0,1,CML,>40,Gender mismatch,No TCD
+1308,107.0,1,847.0,0,AML,<=20,No gender mismatch,No TCD
+1309,21.0,0,21.0,1,CML,>40,No gender mismatch,No TCD
+1310,19.0,1,2084.0,0,CML,20-40,No gender mismatch,No TCD
+1311,48.0,1,1817.0,0,AML,>40,No gender mismatch,No TCD
+1312,35.0,1,802.0,0,AML,20-40,No gender mismatch,No TCD
+1313,25.0,1,305.0,1,CML,>40,Gender mismatch,No TCD
+1314,34.0,1,801.0,0,AML,<=20,No gender mismatch,No TCD
+1315,123.0,0,123.0,1,CML,20-40,No gender mismatch,No TCD
+1316,14.0,0,14.0,1,ALL,20-40,Gender mismatch,No TCD
+1317,54.0,0,54.0,1,CML,20-40,No gender mismatch,No TCD
+1318,11.0,0,11.0,1,AML,20-40,No gender mismatch,No TCD
+1319,385.0,1,1098.0,0,AML,20-40,Gender mismatch,No TCD
+1320,31.0,1,1706.0,0,AML,>40,No gender mismatch,No TCD
+1321,21.0,1,1592.0,0,CML,>40,Gender mismatch,No TCD
+1322,43.0,1,1662.0,0,AML,<=20,No gender mismatch,No TCD
+1323,24.0,1,1351.0,0,ALL,<=20,No gender mismatch,No TCD
+1324,36.0,1,1587.0,0,AML,<=20,No gender mismatch,No TCD
+1325,24.0,1,1031.0,0,ALL,<=20,Gender mismatch,No TCD
+1326,22.0,1,981.0,0,ALL,<=20,No gender mismatch,No TCD
+1327,53.0,1,729.0,0,ALL,<=20,Gender mismatch,No TCD
+1328,870.0,0,870.0,0,ALL,<=20,No gender mismatch,No TCD
+1329,1968.0,0,1968.0,0,AML,<=20,No gender mismatch,No TCD
+1330,33.0,1,1849.0,0,AML,<=20,No gender mismatch,No TCD
+1331,1435.0,0,680.0,1,ALL,<=20,No gender mismatch,No TCD
+1332,1305.0,0,1305.0,0,CML,<=20,No gender mismatch,No TCD
+1333,333.0,0,333.0,0,CML,20-40,Gender mismatch,No TCD
+1334,185.0,0,185.0,0,AML,20-40,No gender mismatch,No TCD
+1335,67.0,0,67.0,0,CML,20-40,No gender mismatch,No TCD
+1336,66.0,0,66.0,1,AML,<=20,Gender mismatch,No TCD
+1337,29.0,1,665.0,0,ALL,20-40,No gender mismatch,No TCD
+1338,25.0,0,25.0,1,ALL,20-40,No gender mismatch,No TCD
+1339,54.0,0,54.0,1,AML,>40,Gender mismatch,TCD
+1340,32.0,0,32.0,1,ALL,<=20,No gender mismatch,No TCD
+1341,38.0,1,524.0,0,ALL,<=20,No gender mismatch,No TCD
+1342,12.0,0,12.0,1,CML,>40,Gender mismatch,No TCD
+1343,38.0,1,221.0,0,CML,20-40,Gender mismatch,No TCD
+1344,64.0,1,148.0,0,CML,20-40,Gender mismatch,No TCD
+1345,26.0,1,172.0,0,ALL,<=20,Gender mismatch,No TCD
+1346,39.0,1,248.0,0,CML,>40,Gender mismatch,No TCD
+1347,12.0,0,12.0,1,AML,20-40,No gender mismatch,No TCD
+1348,23.0,1,1100.0,0,CML,>40,No gender mismatch,No TCD
+1349,28.0,1,1069.0,0,AML,20-40,No gender mismatch,No TCD
+1350,18.0,1,2551.0,0,ALL,<=20,No gender mismatch,No TCD
+1351,20.0,1,40.0,1,ALL,<=20,No gender mismatch,No TCD
+1352,13.0,1,2492.0,0,AML,<=20,No gender mismatch,No TCD
+1353,12.0,1,2243.0,0,ALL,<=20,No gender mismatch,No TCD
+1354,60.0,0,60.0,1,AML,<=20,No gender mismatch,No TCD
+1355,15.0,1,2092.0,0,AML,<=20,No gender mismatch,No TCD
+1356,36.0,1,1431.0,0,AML,<=20,No gender mismatch,No TCD
+1357,16.0,1,1344.0,0,AML,<=20,No gender mismatch,No TCD
+1358,14.0,1,1200.0,0,ALL,<=20,No gender mismatch,No TCD
+1359,229.0,0,229.0,1,CML,>40,No gender mismatch,No TCD
+1360,407.0,0,407.0,1,CML,20-40,No gender mismatch,No TCD
+1361,1024.0,0,1024.0,1,CML,20-40,Gender mismatch,No TCD
+1362,1279.0,0,137.0,1,ALL,20-40,No gender mismatch,No TCD
+1363,2660.0,0,2660.0,0,CML,20-40,Gender mismatch,No TCD
+1364,27.0,1,2397.0,0,AML,>40,Gender mismatch,No TCD
+1365,35.0,1,672.0,1,AML,>40,No gender mismatch,No TCD
+1366,23.0,1,812.0,0,CML,>40,No gender mismatch,No TCD
+1367,30.0,1,627.0,0,CML,20-40,No gender mismatch,No TCD
+1368,33.0,0,33.0,1,CML,20-40,No gender mismatch,No TCD
+1369,1026.0,0,221.0,1,CML,>40,No gender mismatch,No TCD
+1370,32.0,1,93.0,1,ALL,20-40,Gender mismatch,No TCD
+1371,31.0,1,305.0,1,ALL,20-40,No gender mismatch,No TCD
+1372,51.0,1,1865.0,0,AML,20-40,Gender mismatch,No TCD
+1373,28.0,1,1782.0,0,AML,20-40,No gender mismatch,No TCD
+1374,28.0,1,108.0,1,ALL,20-40,No gender mismatch,No TCD
+1375,22.0,1,1460.0,0,ALL,20-40,No gender mismatch,No TCD
+1376,21.0,0,21.0,1,AML,>40,No gender mismatch,No TCD
+1377,22.0,1,1166.0,0,AML,>40,No gender mismatch,TCD
+1378,26.0,1,1355.0,0,ALL,20-40,Gender mismatch,No TCD
+1379,16.0,1,1467.0,0,ALL,20-40,No gender mismatch,No TCD
+1380,107.0,1,662.0,0,AML,<=20,Gender mismatch,No TCD
+1381,996.0,0,996.0,0,AML,>40,No gender mismatch,No TCD
+1382,611.0,0,611.0,0,CML,20-40,No gender mismatch,No TCD
+1383,539.0,0,539.0,0,ALL,>40,No gender mismatch,No TCD
+1384,15.0,0,15.0,1,CML,>40,No gender mismatch,No TCD
+1385,277.0,0,277.0,0,AML,20-40,No gender mismatch,No TCD
+1386,287.0,0,287.0,0,CML,>40,No gender mismatch,No TCD
+1387,78.0,0,78.0,0,CML,20-40,No gender mismatch,No TCD
+1388,31.0,1,2276.0,0,CML,>40,No gender mismatch,No TCD
+1389,610.0,0,610.0,0,CML,20-40,Gender mismatch,No TCD
+1390,594.0,0,594.0,0,CML,20-40,No gender mismatch,No TCD
+1391,13.0,1,738.0,0,AML,>40,No gender mismatch,No TCD
+1392,22.0,1,215.0,1,AML,>40,Gender mismatch,No TCD
+1393,1666.0,0,1507.0,1,CML,>40,No gender mismatch,No TCD
+1394,1626.0,0,1106.0,1,CML,20-40,No gender mismatch,No TCD
+1395,1594.0,0,1594.0,0,CML,>40,No gender mismatch,No TCD
+1396,1666.0,0,1325.0,1,CML,<=20,No gender mismatch,No TCD
+1397,28.0,1,191.0,1,ALL,20-40,Gender mismatch,No TCD
+1398,20.0,1,1678.0,0,ALL,20-40,Gender mismatch,No TCD
+1399,15.0,1,1160.0,0,AML,<=20,Gender mismatch,No TCD
+1400,2516.0,0,1605.0,1,CML,20-40,No gender mismatch,No TCD
+1401,57.0,1,1239.0,0,AML,>40,No gender mismatch,No TCD
+1402,40.0,1,1184.0,0,ALL,20-40,No gender mismatch,No TCD
+1403,1980.0,0,1980.0,0,CML,20-40,No gender mismatch,No TCD
+1404,12.0,1,365.0,0,CML,<=20,No gender mismatch,No TCD
+1405,2228.0,0,2228.0,0,AML,20-40,No gender mismatch,No TCD
+1406,89.0,0,89.0,1,AML,>40,No gender mismatch,No TCD
+1407,272.0,0,272.0,1,AML,>40,Gender mismatch,No TCD
+1408,2052.0,0,2052.0,0,AML,20-40,No gender mismatch,No TCD
+1409,1585.0,0,1585.0,0,CML,>40,No gender mismatch,No TCD
+1410,258.0,0,258.0,1,CML,20-40,No gender mismatch,No TCD
+1411,673.0,0,113.0,1,AML,>40,No gender mismatch,No TCD
+1412,150.0,0,150.0,1,CML,>40,Gender mismatch,No TCD
+1413,2228.0,0,2228.0,0,CML,20-40,No gender mismatch,No TCD
+1414,2016.0,0,2016.0,0,CML,20-40,Gender mismatch,No TCD
+1415,47.0,1,52.0,1,CML,20-40,No gender mismatch,No TCD
+1416,1379.0,0,1379.0,0,AML,<=20,No gender mismatch,No TCD
+1417,1423.0,0,1423.0,0,AML,20-40,Gender mismatch,No TCD
+1418,370.0,0,370.0,0,AML,<=20,Gender mismatch,No TCD
+1419,140.0,0,140.0,0,AML,<=20,Gender mismatch,No TCD
+1420,369.0,0,369.0,0,CML,>40,No gender mismatch,No TCD
+1421,414.0,0,414.0,0,CML,>40,No gender mismatch,No TCD
+1422,344.0,0,344.0,0,AML,20-40,No gender mismatch,No TCD
+1423,216.0,0,216.0,1,AML,>40,No gender mismatch,No TCD
+1424,189.0,0,189.0,1,CML,>40,No gender mismatch,No TCD
+1425,243.0,0,243.0,0,CML,20-40,Gender mismatch,No TCD
+1426,5.0,0,5.0,0,AML,20-40,No gender mismatch,No TCD
+1427,29.0,1,2573.0,0,CML,20-40,No gender mismatch,No TCD
+1428,40.0,1,2351.0,0,CML,20-40,Gender mismatch,No TCD
+1429,27.0,1,2466.0,0,CML,20-40,No gender mismatch,No TCD
+1430,26.0,1,2009.0,0,CML,>40,No gender mismatch,No TCD
+1431,22.0,1,2198.0,0,CML,20-40,Gender mismatch,No TCD
+1432,1835.0,0,1835.0,0,CML,20-40,No gender mismatch,No TCD
+1433,1809.0,0,1809.0,0,CML,>40,No gender mismatch,No TCD
+1434,1819.0,0,1819.0,0,CML,>40,No gender mismatch,No TCD
+1435,120.0,0,120.0,1,CML,20-40,Gender mismatch,No TCD
+1436,1830.0,0,1830.0,0,CML,20-40,No gender mismatch,No TCD
+1437,1970.0,0,1970.0,0,CML,20-40,No gender mismatch,No TCD
+1438,1954.0,0,1954.0,1,CML,>40,No gender mismatch,No TCD
+1439,1842.0,0,1842.0,0,CML,20-40,Gender mismatch,No TCD
+1440,1829.0,0,1829.0,0,CML,20-40,No gender mismatch,No TCD
+1441,1463.0,0,1463.0,0,CML,20-40,No gender mismatch,No TCD
+1442,18.0,0,18.0,1,CML,20-40,No gender mismatch,No TCD
+1443,14.0,0,14.0,1,CML,20-40,Gender mismatch,No TCD
+1444,26.0,1,43.0,1,AML,20-40,Gender mismatch,No TCD
+1445,18.0,1,1117.0,0,AML,<=20,Gender mismatch,No TCD
+1446,24.0,1,2206.0,0,AML,20-40,No gender mismatch,No TCD
+1447,30.0,0,25.0,1,ALL,20-40,No gender mismatch,No TCD
+1448,24.0,1,1838.0,0,AML,>40,No gender mismatch,No TCD
+1449,524.0,0,524.0,1,CML,>40,No gender mismatch,TCD
+1450,34.0,0,34.0,1,CML,20-40,No gender mismatch,No TCD
+1451,1831.0,0,1831.0,0,CML,>40,No gender mismatch,TCD
+1452,549.0,0,549.0,1,CML,>40,No gender mismatch,No TCD
+1453,28.0,0,28.0,1,AML,20-40,No gender mismatch,TCD
+1454,1707.0,0,1707.0,0,AML,20-40,No gender mismatch,TCD
+1455,26.0,1,2678.0,0,AML,20-40,No gender mismatch,TCD
+1456,28.0,1,349.0,1,ALL,>40,No gender mismatch,TCD
+1457,43.0,1,2265.0,0,AML,20-40,No gender mismatch,TCD
+1458,18.0,1,1736.0,0,AML,<=20,No gender mismatch,TCD
+1459,2250.0,0,2250.0,0,AML,<=20,No gender mismatch,TCD
+1460,2086.0,0,2086.0,0,AML,20-40,Gender mismatch,TCD
+1461,19.0,0,19.0,1,AML,20-40,No gender mismatch,No TCD
+1462,62.0,0,62.0,1,AML,20-40,No gender mismatch,No TCD
+1463,75.0,1,2104.0,0,AML,>40,No gender mismatch,TCD
+1464,139.0,0,139.0,1,AML,20-40,No gender mismatch,No TCD
+1465,26.0,1,2131.0,0,AML,20-40,No gender mismatch,TCD
+1466,1744.0,0,847.0,1,ALL,20-40,No gender mismatch,TCD
+1467,50.0,1,1525.0,0,AML,>40,No gender mismatch,TCD
+1468,299.0,0,299.0,1,AML,>40,Gender mismatch,TCD
+1469,36.0,1,1456.0,0,AML,>40,No gender mismatch,TCD
+1470,1660.0,0,862.0,1,CML,20-40,No gender mismatch,No TCD
+1471,28.0,1,300.0,1,AML,>40,Gender mismatch,No TCD
+1472,1114.0,0,1114.0,0,ALL,<=20,No gender mismatch,No TCD
+1473,22.0,0,22.0,1,AML,>40,No gender mismatch,No TCD
+1474,59.0,0,59.0,1,CML,20-40,No gender mismatch,No TCD
+1475,1088.0,0,1088.0,0,AML,>40,No gender mismatch,No TCD
+1476,1008.0,0,1008.0,0,AML,20-40,No gender mismatch,No TCD
+1477,2030.0,0,2030.0,0,AML,20-40,No gender mismatch,TCD
+1478,374.0,0,374.0,1,CML,20-40,No gender mismatch,No TCD
+1479,31.0,1,89.0,1,CML,<=20,No gender mismatch,No TCD
+1480,2023.0,0,2023.0,0,AML,20-40,Gender mismatch,No TCD
+1481,7.0,0,7.0,1,AML,>40,Gender mismatch,No TCD
+1482,2689.0,0,2689.0,0,CML,20-40,No gender mismatch,No TCD
+1483,19.0,0,19.0,1,CML,20-40,No gender mismatch,No TCD
+1484,87.0,0,87.0,1,CML,>40,No gender mismatch,No TCD
+1485,56.0,0,56.0,1,CML,20-40,No gender mismatch,No TCD
+1486,2520.0,0,2520.0,0,AML,20-40,No gender mismatch,No TCD
+1487,220.0,0,220.0,1,CML,20-40,Gender mismatch,No TCD
+1488,1099.0,0,1099.0,0,AML,20-40,No gender mismatch,No TCD
+1489,1050.0,0,1050.0,0,AML,20-40,No gender mismatch,No TCD
+1490,60.0,1,2133.0,0,CML,>40,No gender mismatch,No TCD
+1491,24.0,1,282.0,1,CML,<=20,No gender mismatch,No TCD
+1492,25.0,1,2224.0,0,CML,>40,No gender mismatch,No TCD
+1493,20.0,1,2385.0,0,CML,20-40,No gender mismatch,No TCD
+1494,1272.0,0,1272.0,0,AML,>40,Gender mismatch,No TCD
+1495,1363.0,0,1363.0,0,AML,>40,Gender mismatch,No TCD
+1496,1622.0,0,1622.0,0,AML,>40,No gender mismatch,No TCD
+1497,1468.0,0,1468.0,0,CML,>40,Gender mismatch,No TCD
+1498,1258.0,0,1258.0,0,AML,20-40,No gender mismatch,No TCD
+1499,29.0,1,1000.0,0,CML,<=20,No gender mismatch,No TCD
+1500,1125.0,0,1125.0,0,AML,20-40,No gender mismatch,No TCD
+1501,294.0,0,229.0,1,AML,>40,No gender mismatch,No TCD
+1502,98.0,0,98.0,1,AML,>40,No gender mismatch,No TCD
+1503,1164.0,0,1164.0,0,CML,>40,No gender mismatch,No TCD
+1504,1403.0,0,1403.0,0,CML,20-40,No gender mismatch,No TCD
+1505,960.0,0,960.0,0,AML,20-40,No gender mismatch,No TCD
+1506,912.0,0,912.0,0,AML,<=20,No gender mismatch,No TCD
+1507,151.0,0,151.0,1,AML,20-40,No gender mismatch,No TCD
+1508,58.0,1,2030.0,0,ALL,<=20,No gender mismatch,No TCD
+1509,30.0,1,2397.0,0,AML,>40,No gender mismatch,No TCD
+1510,26.0,1,49.0,1,AML,20-40,No gender mismatch,No TCD
+1511,20.0,1,141.0,1,AML,>40,No gender mismatch,No TCD
+1512,1146.0,0,1146.0,0,CML,20-40,No gender mismatch,No TCD
+1513,1228.0,0,1228.0,0,CML,20-40,Gender mismatch,No TCD
+1514,1373.0,0,1373.0,0,CML,20-40,Gender mismatch,No TCD
+1515,1069.0,0,397.0,1,CML,20-40,No gender mismatch,No TCD
+1516,1456.0,0,1456.0,0,ALL,20-40,No gender mismatch,No TCD
+1517,188.0,0,188.0,1,CML,20-40,No gender mismatch,No TCD
+1518,613.0,0,613.0,0,AML,>40,No gender mismatch,No TCD
+1519,700.0,0,700.0,0,AML,>40,Gender mismatch,No TCD
+1520,570.0,0,570.0,0,AML,20-40,No gender mismatch,No TCD
+1521,370.0,0,370.0,1,ALL,20-40,No gender mismatch,No TCD
+1522,469.0,0,469.0,0,CML,>40,No gender mismatch,No TCD
+1523,74.0,0,74.0,1,ALL,>40,No gender mismatch,No TCD
+1524,441.0,0,441.0,0,AML,20-40,No gender mismatch,No TCD
+1525,38.0,0,38.0,1,AML,20-40,No gender mismatch,No TCD
+1526,112.0,0,112.0,0,AML,20-40,No gender mismatch,No TCD
+1527,56.0,0,56.0,1,CML,20-40,No gender mismatch,No TCD
+1528,153.0,0,153.0,0,CML,>40,No gender mismatch,No TCD
+1529,314.0,0,314.0,0,CML,>40,No gender mismatch,No TCD
+1530,923.0,0,923.0,0,AML,>40,Gender mismatch,No TCD
+1531,778.0,0,778.0,0,AML,20-40,No gender mismatch,No TCD
+1532,630.0,0,574.0,1,ALL,20-40,No gender mismatch,No TCD
+1533,19.0,1,362.0,1,ALL,>40,No gender mismatch,No TCD
+1534,23.0,1,132.0,1,AML,>40,No gender mismatch,No TCD
+1535,28.0,1,423.0,1,CML,>40,No gender mismatch,No TCD
+1536,15.0,1,170.0,1,AML,20-40,No gender mismatch,No TCD
+1537,17.0,1,1655.0,0,AML,20-40,Gender mismatch,No TCD
+1538,23.0,1,116.0,1,AML,20-40,Gender mismatch,No TCD
+1539,23.0,1,1502.0,0,AML,20-40,No gender mismatch,No TCD
+1540,17.0,1,1405.0,0,CML,20-40,No gender mismatch,No TCD
+1541,87.0,1,1322.0,1,ALL,20-40,Gender mismatch,No TCD
+1542,22.0,1,1267.0,0,ALL,20-40,No gender mismatch,No TCD
+1543,23.0,1,1419.0,0,ALL,20-40,Gender mismatch,No TCD
+1544,36.0,1,220.0,1,ALL,<=20,No gender mismatch,No TCD
+1545,17.0,1,804.0,0,CML,20-40,No gender mismatch,No TCD
+1546,22.0,1,705.0,0,AML,20-40,No gender mismatch,No TCD
+1547,13.0,1,676.0,0,AML,>40,No gender mismatch,No TCD
+1548,51.0,1,356.0,1,AML,>40,No gender mismatch,No TCD
+1549,17.0,1,669.0,0,AML,>40,No gender mismatch,No TCD
+1550,16.0,1,410.0,0,AML,20-40,No gender mismatch,No TCD
+1551,19.0,1,271.0,1,AML,20-40,Gender mismatch,No TCD
+1552,32.0,1,886.0,0,ALL,20-40,No gender mismatch,No TCD
+1553,26.0,1,161.0,1,CML,>40,No gender mismatch,No TCD
+1554,144.0,1,929.0,0,CML,>40,No gender mismatch,No TCD
+1555,17.0,1,231.0,1,ALL,<=20,No gender mismatch,No TCD
+1556,29.0,1,545.0,1,CML,20-40,No gender mismatch,No TCD
+1557,29.0,1,1103.0,0,CML,20-40,No gender mismatch,No TCD
+1558,37.0,1,1285.0,0,ALL,20-40,No gender mismatch,No TCD
+1559,32.0,1,251.0,1,CML,20-40,No gender mismatch,No TCD
+1560,22.0,1,1301.0,0,AML,20-40,No gender mismatch,No TCD
+1561,28.0,1,1363.0,0,ALL,<=20,No gender mismatch,No TCD
+1562,31.0,1,75.0,1,CML,>40,No gender mismatch,No TCD
+1563,16.0,1,285.0,1,AML,20-40,No gender mismatch,No TCD
+1564,25.0,1,1221.0,0,ALL,<=20,Gender mismatch,No TCD
+1565,33.0,1,233.0,1,AML,20-40,No gender mismatch,No TCD
+1566,40.0,1,180.0,1,AML,>40,No gender mismatch,No TCD
+1567,112.0,1,198.0,1,ALL,20-40,Gender mismatch,No TCD
+1568,34.0,1,1328.0,0,CML,>40,No gender mismatch,No TCD
+1569,25.0,1,544.0,1,AML,>40,No gender mismatch,No TCD
+1570,14.0,1,184.0,1,AML,>40,Gender mismatch,No TCD
+1571,21.0,1,111.0,1,AML,>40,No gender mismatch,No TCD
+1572,333.0,0,333.0,1,CML,20-40,No gender mismatch,No TCD
+1573,478.0,0,478.0,1,AML,20-40,Gender mismatch,No TCD
+1574,99.0,0,99.0,0,CML,>40,No gender mismatch,No TCD
+1575,144.0,0,144.0,1,CML,20-40,No gender mismatch,No TCD
+1576,30.0,1,1500.0,0,ALL,20-40,No gender mismatch,TCD
+1577,61.0,1,1552.0,0,AML,20-40,No gender mismatch,No TCD
+1578,22.0,1,161.0,1,AML,20-40,No gender mismatch,No TCD
+1579,1420.0,0,1420.0,0,CML,>40,Gender mismatch,No TCD
+1580,14.0,1,1458.0,0,AML,20-40,No gender mismatch,TCD
+1581,1049.0,0,1049.0,0,CML,20-40,No gender mismatch,No TCD
+1582,1926.0,0,1926.0,0,CML,20-40,No gender mismatch,No TCD
+1583,1693.0,0,1693.0,0,CML,20-40,No gender mismatch,No TCD
+1584,2318.0,0,1578.0,1,CML,>40,Gender mismatch,TCD
+1585,35.0,0,35.0,1,CML,20-40,No gender mismatch,No TCD
+1586,182.0,1,1775.0,0,AML,<=20,No gender mismatch,No TCD
+1587,177.0,0,177.0,1,CML,20-40,No gender mismatch,TCD
+1588,2011.0,0,823.0,1,CML,>40,No gender mismatch,TCD
+1589,16.0,1,1422.0,0,AML,20-40,Gender mismatch,TCD
+1590,1875.0,0,932.0,1,CML,>40,No gender mismatch,TCD
+1591,1880.0,0,1880.0,0,CML,20-40,No gender mismatch,TCD
+1592,1826.0,0,1716.0,1,CML,20-40,No gender mismatch,No TCD
+1593,28.0,1,117.0,1,ALL,20-40,No gender mismatch,No TCD
+1594,0.030425,0,0.030425,0,AML,<=20,Gender mismatch,No TCD
+1595,1749.0,0,1749.0,0,CML,20-40,No gender mismatch,No TCD
+1596,75.0,1,1430.0,0,ALL,<=20,Gender mismatch,No TCD
+1597,15.0,1,879.0,1,CML,>40,No gender mismatch,TCD
+1598,25.0,1,187.0,1,CML,20-40,No gender mismatch,No TCD
+1599,16.0,1,368.0,1,CML,>40,No gender mismatch,TCD
+1600,20.0,1,1373.0,0,AML,>40,No gender mismatch,TCD
+1601,35.0,1,951.0,1,CML,20-40,Gender mismatch,No TCD
+1602,234.0,0,234.0,1,CML,20-40,Gender mismatch,No TCD
+1603,63.0,1,1455.0,0,CML,20-40,No gender mismatch,No TCD
+1604,15.0,1,1414.0,0,CML,>40,No gender mismatch,TCD
+1605,35.0,1,1216.0,0,AML,20-40,No gender mismatch,No TCD
+1606,177.0,0,177.0,1,CML,20-40,No gender mismatch,No TCD
+1607,1122.0,0,1122.0,0,ALL,<=20,Gender mismatch,No TCD
+1608,21.0,1,1688.0,0,AML,20-40,No gender mismatch,TCD
+1609,65.0,1,871.0,0,ALL,<=20,No gender mismatch,No TCD
+1610,26.0,1,216.0,1,ALL,<=20,No gender mismatch,No TCD
+1611,27.0,1,1239.0,0,AML,<=20,No gender mismatch,No TCD
+1612,14.0,1,988.0,0,ALL,<=20,No gender mismatch,No TCD
+1613,39.0,1,1260.0,0,AML,<=20,No gender mismatch,No TCD
+1614,34.0,1,1241.0,0,AML,<=20,Gender mismatch,No TCD
+1615,24.0,1,724.0,1,AML,<=20,No gender mismatch,No TCD
+1616,28.0,1,1964.0,0,AML,<=20,Gender mismatch,No TCD
+1617,23.0,1,1560.0,0,AML,<=20,No gender mismatch,No TCD
+1618,55.0,1,1737.0,0,AML,<=20,No gender mismatch,No TCD
+1619,1828.0,0,1828.0,0,CML,20-40,No gender mismatch,No TCD
+1620,50.0,0,50.0,1,CML,20-40,No gender mismatch,No TCD
+1621,2309.0,0,2309.0,0,CML,20-40,No gender mismatch,No TCD
+1622,821.0,0,821.0,0,CML,20-40,No gender mismatch,No TCD
+1623,156.0,0,156.0,1,CML,20-40,No gender mismatch,No TCD
+1624,974.0,0,974.0,0,CML,20-40,No gender mismatch,No TCD
+1625,1933.0,0,1933.0,0,CML,20-40,No gender mismatch,No TCD
+1626,2578.0,0,2578.0,0,AML,<=20,No gender mismatch,No TCD
+1627,27.0,1,2520.0,0,CML,>40,No gender mismatch,No TCD
+1628,22.0,1,2597.0,1,CML,20-40,No gender mismatch,No TCD
+1629,28.0,1,2359.0,0,CML,20-40,Gender mismatch,No TCD
+1630,112.0,1,2380.0,0,ALL,20-40,No gender mismatch,No TCD
+1631,42.0,1,328.0,1,CML,>40,No gender mismatch,No TCD
+1632,1596.0,0,1596.0,0,ALL,<=20,Gender mismatch,No TCD
+1633,1414.0,0,1414.0,0,CML,>40,No gender mismatch,No TCD
+1634,32.0,1,1827.0,0,ALL,20-40,Gender mismatch,No TCD
+1635,49.0,1,102.0,1,AML,>40,No gender mismatch,No TCD
+1636,213.0,0,213.0,0,CML,<=20,No gender mismatch,No TCD
+1637,29.0,1,2692.0,0,CML,20-40,Gender mismatch,No TCD
+1638,19.0,1,1170.0,0,AML,<=20,No gender mismatch,No TCD
+1639,22.0,1,1078.0,0,AML,20-40,No gender mismatch,No TCD
+1640,1174.0,0,1174.0,0,CML,>40,Gender mismatch,No TCD
+1641,619.0,0,619.0,0,CML,20-40,No gender mismatch,No TCD
+1642,654.0,0,654.0,0,AML,20-40,No gender mismatch,No TCD
+1643,2151.0,0,2111.0,1,CML,20-40,No gender mismatch,No TCD
+1644,79.0,0,79.0,1,AML,20-40,No gender mismatch,No TCD
+1645,830.0,0,830.0,0,CML,20-40,No gender mismatch,No TCD
+1646,21.0,1,877.0,0,CML,20-40,No gender mismatch,No TCD
+1647,26.0,1,1086.0,0,AML,>40,No gender mismatch,No TCD
+1648,23.0,1,71.0,1,CML,>40,No gender mismatch,No TCD
+1649,702.0,0,702.0,1,AML,20-40,Gender mismatch,No TCD
+1650,47.0,1,758.0,0,ALL,<=20,Gender mismatch,No TCD
+1651,78.0,0,78.0,1,ALL,>40,No gender mismatch,No TCD
+1652,24.0,1,1079.0,0,CML,>40,No gender mismatch,No TCD
+1653,44.0,1,173.0,1,AML,>40,No gender mismatch,No TCD
+1654,23.0,1,1528.0,0,CML,>40,No gender mismatch,No TCD
+1655,1741.0,0,1741.0,0,AML,20-40,No gender mismatch,No TCD
+1656,1265.0,0,1265.0,0,ALL,20-40,No gender mismatch,No TCD
+1657,40.0,1,1757.0,0,ALL,<=20,No gender mismatch,No TCD
+1658,21.0,1,1673.0,0,ALL,>40,No gender mismatch,No TCD
+1659,1972.0,0,1972.0,0,AML,>40,Gender mismatch,No TCD
+1660,539.0,0,41.0,1,AML,>40,Gender mismatch,No TCD
+1661,1575.0,0,1575.0,0,CML,>40,No gender mismatch,No TCD
+1662,1328.0,0,1328.0,0,ALL,>40,No gender mismatch,No TCD
+1663,1226.0,0,1226.0,0,CML,20-40,No gender mismatch,No TCD
+1664,18.0,1,1471.0,0,CML,<=20,Gender mismatch,No TCD
+1665,26.0,1,99.0,1,CML,>40,Gender mismatch,TCD
+1666,14.0,1,705.0,0,CML,20-40,No gender mismatch,No TCD
+1667,27.0,1,228.0,0,AML,>40,No gender mismatch,No TCD
+1668,28.0,1,102.0,1,AML,>40,No gender mismatch,No TCD
+1669,19.0,1,111.0,1,ALL,20-40,No gender mismatch,No TCD
+1670,35.0,1,174.0,0,AML,20-40,Gender mismatch,No TCD
+1671,23.0,1,92.0,0,AML,20-40,No gender mismatch,No TCD
+1672,27.0,1,182.0,0,AML,20-40,No gender mismatch,No TCD
+1673,15.0,1,146.0,0,ALL,20-40,No gender mismatch,No TCD
+1674,24.0,1,241.0,0,AML,20-40,No gender mismatch,No TCD
+1675,25.0,1,338.0,0,ALL,20-40,Gender mismatch,No TCD
+1676,22.0,1,365.0,0,ALL,<=20,No gender mismatch,No TCD
+1677,32.0,1,593.0,0,AML,<=20,No gender mismatch,No TCD
+1678,23.0,1,151.0,0,AML,<=20,No gender mismatch,No TCD
+1679,38.0,1,91.0,0,AML,<=20,No gender mismatch,No TCD
+1680,29.0,1,78.0,0,AML,20-40,No gender mismatch,No TCD
+1681,18.0,1,230.0,0,ALL,20-40,Gender mismatch,No TCD
+1682,20.0,1,101.0,1,AML,<=20,No gender mismatch,No TCD
+1683,50.0,1,200.0,0,AML,20-40,No gender mismatch,No TCD
+1684,27.0,1,52.0,1,CML,>40,No gender mismatch,No TCD
+1685,21.0,1,298.0,0,AML,<=20,No gender mismatch,No TCD
+1686,20.0,1,106.0,0,AML,20-40,No gender mismatch,No TCD
+1687,24.0,0,24.0,1,CML,>40,No gender mismatch,No TCD
+1688,129.0,0,129.0,1,CML,20-40,No gender mismatch,No TCD
+1689,736.0,0,736.0,0,CML,20-40,No gender mismatch,No TCD
+1690,496.0,0,496.0,0,CML,>40,Gender mismatch,No TCD
+1691,453.0,0,453.0,0,CML,>40,No gender mismatch,No TCD
+1692,340.0,0,340.0,0,CML,20-40,No gender mismatch,No TCD
+1693,104.0,1,165.0,1,AML,20-40,No gender mismatch,No TCD
+1694,747.0,0,747.0,0,AML,<=20,Gender mismatch,No TCD
+1695,759.0,0,759.0,0,AML,>40,No gender mismatch,No TCD
+1696,110.0,1,2094.0,0,AML,>40,No gender mismatch,No TCD
+1697,15.0,1,104.0,0,CML,20-40,No gender mismatch,No TCD
+1698,185.0,1,206.0,0,ALL,20-40,No gender mismatch,No TCD
+1699,140.0,0,140.0,1,CML,>40,No gender mismatch,No TCD
+1700,79.0,0,79.0,0,AML,>40,No gender mismatch,No TCD
+1701,81.0,0,81.0,0,CML,20-40,No gender mismatch,No TCD
+1702,32.0,1,234.0,0,AML,20-40,No gender mismatch,No TCD
+1703,47.0,0,47.0,1,AML,>40,Gender mismatch,No TCD
+1704,40.0,1,292.0,0,ALL,>40,No gender mismatch,No TCD
+1705,30.0,1,84.0,1,AML,>40,Gender mismatch,No TCD
+1706,40.0,1,134.0,0,AML,>40,Gender mismatch,No TCD
+1707,7.0,1,181.0,0,AML,>40,No gender mismatch,No TCD
+1708,22.0,1,248.0,0,CML,20-40,Gender mismatch,No TCD
+1709,24.0,1,322.0,0,AML,20-40,No gender mismatch,No TCD
+1710,1272.0,0,939.0,1,ALL,20-40,No gender mismatch,No TCD
+1711,31.0,1,506.0,1,CML,>40,No gender mismatch,No TCD
+1712,1488.0,0,1488.0,0,CML,>40,No gender mismatch,No TCD
+1713,1426.0,0,1426.0,0,CML,20-40,No gender mismatch,No TCD
+1714,21.0,1,1837.0,0,CML,>40,No gender mismatch,No TCD
+1715,17.0,1,300.0,1,AML,<=20,No gender mismatch,No TCD
+1716,29.0,1,1433.0,0,AML,20-40,No gender mismatch,No TCD
+1717,29.0,1,1671.0,0,CML,>40,Gender mismatch,No TCD
+1718,82.0,0,82.0,1,AML,>40,No gender mismatch,No TCD
+1719,155.0,0,155.0,1,AML,>40,Gender mismatch,No TCD
+1720,57.0,1,1096.0,0,AML,<=20,Gender mismatch,No TCD
+1721,22.0,1,193.0,1,AML,20-40,Gender mismatch,No TCD
+1722,16.0,1,420.0,1,AML,20-40,No gender mismatch,No TCD
+1723,180.0,0,68.0,1,AML,>40,No gender mismatch,No TCD
+1724,112.0,1,1057.0,0,ALL,20-40,No gender mismatch,No TCD
+1725,32.0,1,1330.0,0,CML,20-40,No gender mismatch,No TCD
+1726,16.0,1,30.0,1,CML,>40,No gender mismatch,No TCD
+1727,43.0,1,195.0,1,CML,>40,Gender mismatch,No TCD
+1728,43.0,1,139.0,1,CML,>40,No gender mismatch,No TCD
+1729,40.0,1,1239.0,0,CML,>40,No gender mismatch,No TCD
+1730,21.0,1,2612.0,0,CML,20-40,No gender mismatch,No TCD
+1731,20.0,1,1980.0,0,CML,20-40,No gender mismatch,No TCD
+1732,18.0,1,1193.0,1,CML,20-40,No gender mismatch,No TCD
+1733,26.0,1,215.0,1,CML,20-40,No gender mismatch,No TCD
+1734,152.0,1,1857.0,1,CML,20-40,No gender mismatch,No TCD
+1735,37.0,1,1473.0,0,ALL,>40,No gender mismatch,No TCD
+1736,60.0,0,60.0,1,CML,20-40,No gender mismatch,No TCD
+1737,28.0,1,683.0,1,AML,20-40,No gender mismatch,No TCD
+1738,31.0,1,298.0,1,AML,20-40,No gender mismatch,No TCD
+1739,92.0,1,509.0,1,ALL,20-40,Gender mismatch,No TCD
+1740,18.0,1,368.0,1,CML,20-40,No gender mismatch,No TCD
+1741,26.0,1,1099.0,0,AML,20-40,Gender mismatch,No TCD
+1742,1554.0,0,1554.0,0,AML,>40,No gender mismatch,No TCD
+1743,27.0,1,158.0,1,AML,>40,Gender mismatch,TCD
+1744,1575.0,0,1575.0,0,AML,20-40,No gender mismatch,No TCD
+1745,110.0,1,1715.0,0,AML,20-40,No gender mismatch,No TCD
+1746,105.0,1,1750.0,0,AML,20-40,No gender mismatch,No TCD
+1747,47.0,1,1890.0,0,AML,20-40,No gender mismatch,TCD
+1748,21.0,1,1841.0,0,AML,<=20,No gender mismatch,No TCD
+1749,42.0,1,2190.0,0,AML,20-40,No gender mismatch,No TCD
+1750,24.0,1,2149.0,0,AML,20-40,No gender mismatch,No TCD
+1751,20.0,1,2128.0,0,CML,>40,No gender mismatch,No TCD
+1752,1342.0,0,1316.0,1,ALL,>40,No gender mismatch,No TCD
+1753,39.0,1,1109.0,1,AML,20-40,Gender mismatch,No TCD
+1754,99.0,1,2030.0,0,AML,<=20,Gender mismatch,No TCD
+1755,25.0,1,1953.0,0,AML,20-40,No gender mismatch,No TCD
+1756,1939.0,0,1939.0,0,AML,20-40,No gender mismatch,No TCD
+1757,27.0,1,1465.0,0,ALL,20-40,No gender mismatch,No TCD
+1758,23.0,1,1497.0,0,CML,>40,No gender mismatch,TCD
+1759,46.0,1,1484.0,0,ALL,20-40,No gender mismatch,No TCD
+1760,56.0,1,1344.0,0,AML,>40,No gender mismatch,No TCD
+1761,21.0,1,1463.0,0,AML,20-40,Gender mismatch,No TCD
+1762,1347.0,0,1347.0,0,CML,<=20,No gender mismatch,No TCD
+1763,18.0,1,343.0,1,CML,>40,Gender mismatch,No TCD
+1764,703.0,0,703.0,0,ALL,20-40,Gender mismatch,No TCD
+1765,64.0,1,572.0,1,ALL,20-40,Gender mismatch,No TCD
+1766,23.0,1,416.0,1,AML,20-40,No gender mismatch,No TCD
+1767,26.0,1,658.0,0,ALL,20-40,Gender mismatch,No TCD
+1768,42.0,1,736.0,0,CML,<=20,No gender mismatch,No TCD
+1769,19.0,1,343.0,1,AML,20-40,No gender mismatch,No TCD
+1770,105.0,1,1155.0,0,ALL,>40,No gender mismatch,No TCD
+1771,30.0,0,30.0,1,AML,20-40,No gender mismatch,No TCD
+1772,34.0,1,1932.0,0,AML,20-40,No gender mismatch,No TCD
+1773,221.0,0,221.0,1,AML,20-40,No gender mismatch,No TCD
+1774,1848.0,0,1848.0,0,AML,20-40,No gender mismatch,No TCD
+1775,34.0,1,1933.0,0,ALL,<=20,No gender mismatch,No TCD
+1776,42.0,1,1869.0,0,ALL,<=20,Gender mismatch,No TCD
+1777,36.0,1,1625.0,0,AML,<=20,No gender mismatch,No TCD
+1778,40.0,1,1566.0,0,AML,<=20,No gender mismatch,No TCD
+1779,68.0,0,68.0,1,AML,20-40,No gender mismatch,No TCD
+1780,211.0,0,211.0,1,AML,20-40,No gender mismatch,No TCD
+1781,44.0,1,2107.0,0,AML,20-40,No gender mismatch,No TCD
+1782,2044.0,0,2044.0,0,ALL,20-40,No gender mismatch,No TCD
+1783,39.0,1,2006.0,0,AML,20-40,No gender mismatch,No TCD
+1784,20.0,1,1807.0,0,AML,20-40,No gender mismatch,No TCD
+1785,1045.0,0,1045.0,0,AML,>40,No gender mismatch,No TCD
+1786,30.0,1,1651.0,0,AML,20-40,No gender mismatch,No TCD
+1787,1627.0,0,1627.0,0,AML,<=20,No gender mismatch,No TCD
+1788,358.0,0,358.0,1,CML,>40,No gender mismatch,No TCD
+1789,57.0,1,1479.0,0,AML,20-40,No gender mismatch,TCD
+1790,25.0,1,1476.0,0,AML,>40,No gender mismatch,No TCD
+1791,810.0,0,810.0,0,AML,<=20,No gender mismatch,No TCD
+1792,38.0,1,1422.0,0,ALL,20-40,No gender mismatch,No TCD
+1793,113.0,0,113.0,1,CML,<=20,No gender mismatch,No TCD
+1794,18.0,1,1340.0,0,ALL,20-40,No gender mismatch,No TCD
+1795,677.0,0,677.0,0,AML,20-40,No gender mismatch,No TCD
+1796,17.0,1,635.0,0,ALL,20-40,No gender mismatch,No TCD
+1797,40.0,1,91.0,1,AML,20-40,No gender mismatch,No TCD
+1798,24.0,1,1231.0,0,AML,20-40,No gender mismatch,No TCD
+1799,30.0,1,1221.0,0,ALL,20-40,No gender mismatch,No TCD
+1800,36.0,1,572.0,0,ALL,20-40,Gender mismatch,No TCD
+1801,30.0,1,1185.0,0,ALL,20-40,No gender mismatch,No TCD
+1802,474.0,0,474.0,0,ALL,>40,No gender mismatch,No TCD
+1803,19.0,1,1084.0,0,AML,20-40,No gender mismatch,No TCD
+1804,1163.0,0,1163.0,0,CML,20-40,No gender mismatch,No TCD
+1805,1126.0,0,1126.0,0,CML,20-40,Gender mismatch,No TCD
+1806,1133.0,0,1133.0,0,AML,<=20,No gender mismatch,No TCD
+1807,29.0,1,2135.0,0,AML,>40,No gender mismatch,No TCD
+1808,17.0,1,45.0,1,ALL,<=20,Gender mismatch,TCD
+1809,23.0,1,64.0,1,ALL,20-40,No gender mismatch,No TCD
+1810,32.0,1,836.0,0,AML,>40,No gender mismatch,No TCD
+1811,27.0,1,905.0,0,CML,20-40,No gender mismatch,No TCD
+1812,21.0,1,887.0,0,CML,20-40,No gender mismatch,No TCD
+1813,16.0,1,737.0,0,AML,>40,No gender mismatch,No TCD
+1814,20.0,1,599.0,0,AML,20-40,No gender mismatch,No TCD
+1815,32.0,1,44.0,1,AML,20-40,No gender mismatch,No TCD
+1816,21.0,1,410.0,0,AML,20-40,No gender mismatch,No TCD
+1817,39.0,1,427.0,0,CML,20-40,No gender mismatch,No TCD
+1818,23.0,1,311.0,0,CML,20-40,Gender mismatch,No TCD
+1819,22.0,1,227.0,0,AML,20-40,Gender mismatch,No TCD
+1820,21.0,1,146.0,0,CML,20-40,No gender mismatch,No TCD
+1821,22.0,1,98.0,0,CML,20-40,No gender mismatch,No TCD
+1822,85.0,0,85.0,0,CML,20-40,Gender mismatch,No TCD
+1823,33.0,1,72.0,0,ALL,>40,No gender mismatch,No TCD
+1824,18.0,1,49.0,0,ALL,>40,No gender mismatch,No TCD
+1825,41.0,1,1838.0,0,AML,<=20,No gender mismatch,TCD
+1826,20.0,1,2046.0,0,AML,<=20,No gender mismatch,TCD
+1827,26.0,1,103.0,1,AML,<=20,No gender mismatch,TCD
+1828,1.0,1,566.0,1,ALL,<=20,Gender mismatch,No TCD
+1829,57.0,1,552.0,1,CML,<=20,No gender mismatch,No TCD
+1830,2518.0,0,2518.0,0,CML,>40,Gender mismatch,No TCD
+1831,1724.0,0,1724.0,0,AML,20-40,No gender mismatch,No TCD
+1832,1485.0,0,1485.0,0,AML,<=20,No gender mismatch,No TCD
+1833,2138.0,0,2138.0,0,ALL,<=20,No gender mismatch,No TCD
+1834,1883.0,0,1883.0,0,ALL,<=20,No gender mismatch,No TCD
+1835,1480.0,0,1480.0,0,ALL,<=20,Gender mismatch,No TCD
+1836,1098.0,0,1098.0,0,AML,<=20,No gender mismatch,No TCD
+1837,1854.0,0,1854.0,0,AML,<=20,Gender mismatch,No TCD
+1838,61.0,0,61.0,1,ALL,20-40,Gender mismatch,No TCD
+1839,17.0,1,1175.0,0,AML,20-40,No gender mismatch,No TCD
+1840,22.0,1,1146.0,0,AML,<=20,No gender mismatch,No TCD
+1841,1988.0,0,1988.0,0,AML,<=20,No gender mismatch,No TCD
+1842,24.0,1,2296.0,0,AML,<=20,No gender mismatch,No TCD
+1843,19.0,1,952.0,0,CML,20-40,No gender mismatch,No TCD
+1844,34.0,1,1295.0,0,ALL,20-40,Gender mismatch,No TCD
+1845,23.0,1,1828.0,0,CML,20-40,Gender mismatch,No TCD
+1846,33.0,1,547.0,0,ALL,20-40,No gender mismatch,No TCD
+1847,18.0,1,631.0,0,ALL,>40,No gender mismatch,No TCD
+1848,54.0,1,1456.0,0,CML,20-40,No gender mismatch,No TCD
+1849,25.0,1,196.0,0,AML,20-40,Gender mismatch,No TCD
+1850,19.0,1,203.0,0,AML,20-40,No gender mismatch,No TCD
+1851,187.0,0,187.0,1,AML,>40,No gender mismatch,No TCD
+1852,20.0,1,2064.0,0,AML,20-40,No gender mismatch,No TCD
+1853,23.0,1,1304.0,1,CML,>40,No gender mismatch,No TCD
+1854,26.0,1,2322.0,1,CML,>40,No gender mismatch,No TCD
+1855,30.0,1,2366.0,0,CML,20-40,No gender mismatch,No TCD
+1856,13.0,1,1185.0,0,CML,>40,No gender mismatch,No TCD
+1857,27.0,1,1867.0,1,CML,>40,No gender mismatch,No TCD
+1858,21.0,1,2074.0,0,AML,>40,No gender mismatch,No TCD
+1859,14.0,1,1636.0,0,CML,20-40,No gender mismatch,No TCD
+1860,22.0,1,1667.0,0,CML,>40,No gender mismatch,No TCD
+1861,102.0,1,284.0,1,CML,>40,No gender mismatch,No TCD
+1862,26.0,1,2146.0,0,CML,>40,No gender mismatch,No TCD
+1863,20.0,1,2116.0,0,CML,20-40,No gender mismatch,No TCD
+1864,21.0,1,2182.0,0,CML,20-40,No gender mismatch,No TCD
+1865,33.0,1,2071.0,0,CML,<=20,No gender mismatch,No TCD
+1866,42.0,1,1202.0,1,CML,>40,No gender mismatch,No TCD
+1867,24.0,1,1834.0,0,AML,>40,No gender mismatch,No TCD
+1868,21.0,1,298.0,1,CML,>40,No gender mismatch,No TCD
+1869,22.0,1,205.0,1,CML,>40,No gender mismatch,No TCD
+1870,16.0,1,580.0,1,AML,>40,No gender mismatch,No TCD
+1871,17.0,1,1770.0,0,AML,>40,No gender mismatch,No TCD
+1872,29.0,1,1876.0,0,CML,>40,No gender mismatch,No TCD
+1873,81.0,0,81.0,1,CML,20-40,No gender mismatch,No TCD
+1874,17.0,1,1702.0,0,AML,>40,No gender mismatch,No TCD
+1875,23.0,1,1832.0,0,CML,>40,No gender mismatch,No TCD
+1876,26.0,1,94.0,1,CML,>40,No gender mismatch,No TCD
+1877,1890.0,0,1269.0,1,CML,>40,No gender mismatch,No TCD
+1878,35.0,0,35.0,1,AML,20-40,No gender mismatch,No TCD
+1879,79.0,0,79.0,1,CML,20-40,No gender mismatch,No TCD
+1880,1608.0,0,1608.0,0,CML,>40,No gender mismatch,No TCD
+1881,1489.0,0,1489.0,0,CML,20-40,Gender mismatch,No TCD
+1882,1091.0,0,1091.0,0,AML,>40,No gender mismatch,No TCD
+1883,1423.0,0,1423.0,0,CML,>40,No gender mismatch,No TCD
+1884,1407.0,0,1111.0,1,CML,>40,No gender mismatch,No TCD
+1885,1272.0,0,1272.0,0,CML,20-40,No gender mismatch,No TCD
+1886,1069.0,0,1069.0,0,AML,<=20,No gender mismatch,No TCD
+1887,1034.0,0,1034.0,0,AML,20-40,No gender mismatch,No TCD
+1888,69.0,1,761.0,0,AML,20-40,No gender mismatch,No TCD
+1889,114.0,1,615.0,0,AML,>40,No gender mismatch,No TCD
+1890,523.0,0,523.0,0,ALL,20-40,No gender mismatch,No TCD
+1891,38.0,1,593.0,0,CML,20-40,No gender mismatch,No TCD
+1892,27.0,1,292.0,1,ALL,<=20,No gender mismatch,No TCD
+1893,1505.0,0,1505.0,0,AML,<=20,No gender mismatch,No TCD
+1894,2555.0,0,2555.0,0,AML,20-40,No gender mismatch,TCD
+1895,104.0,0,104.0,1,ALL,20-40,No gender mismatch,No TCD
+1896,4.0,0,4.0,1,AML,>40,No gender mismatch,No TCD
+1897,30.0,1,2446.0,0,CML,20-40,No gender mismatch,No TCD
+1898,25.0,1,126.0,1,CML,>40,No gender mismatch,No TCD
+1899,31.0,1,2044.0,0,CML,>40,No gender mismatch,No TCD
+1900,35.0,1,1929.0,0,ALL,>40,No gender mismatch,No TCD
+1901,26.0,1,341.0,1,AML,<=20,Gender mismatch,No TCD
+1902,1559.0,0,1559.0,0,CML,>40,No gender mismatch,No TCD
+1903,1802.0,0,1802.0,0,CML,20-40,Gender mismatch,No TCD
+1904,252.0,0,252.0,1,CML,20-40,Gender mismatch,No TCD
+1905,21.0,1,64.0,1,CML,>40,Gender mismatch,No TCD
+1906,31.0,1,52.0,1,AML,>40,No gender mismatch,No TCD
+1907,27.0,1,123.0,1,CML,20-40,Gender mismatch,No TCD
+1908,21.0,1,2523.0,0,CML,>40,No gender mismatch,No TCD
+1909,21.0,1,65.0,1,AML,>40,No gender mismatch,No TCD
+1910,28.0,1,2513.0,0,CML,>40,No gender mismatch,No TCD
+1911,109.0,0,109.0,1,CML,20-40,No gender mismatch,No TCD
+1912,26.0,1,119.0,1,AML,>40,No gender mismatch,No TCD
+1913,112.0,0,112.0,1,CML,20-40,Gender mismatch,No TCD
+1914,126.0,1,1963.0,0,CML,20-40,No gender mismatch,No TCD
+1915,24.0,1,819.0,1,CML,20-40,No gender mismatch,No TCD
+1916,61.0,1,137.0,1,CML,20-40,No gender mismatch,No TCD
+1917,20.0,1,63.0,1,AML,20-40,Gender mismatch,No TCD
+1918,15.0,1,1821.0,1,CML,20-40,No gender mismatch,No TCD
+1919,15.0,1,1658.0,0,CML,20-40,Gender mismatch,No TCD
+1920,43.0,1,1790.0,0,CML,20-40,Gender mismatch,No TCD
+1921,21.0,1,875.0,1,CML,20-40,Gender mismatch,No TCD
+1922,26.0,1,194.0,1,CML,>40,No gender mismatch,No TCD
+1923,45.0,0,45.0,1,AML,>40,No gender mismatch,No TCD
+1924,41.0,1,1717.0,0,CML,20-40,No gender mismatch,No TCD
+1925,24.0,1,1763.0,0,CML,20-40,Gender mismatch,No TCD
+1926,43.0,0,43.0,1,ALL,20-40,Gender mismatch,No TCD
+1927,42.0,1,64.0,1,CML,>40,No gender mismatch,No TCD
+1928,35.0,1,1680.0,0,CML,20-40,No gender mismatch,No TCD
+1929,39.0,1,232.0,1,ALL,<=20,No gender mismatch,No TCD
+1930,29.0,1,187.0,1,CML,20-40,No gender mismatch,No TCD
+1931,49.0,1,1427.0,0,AML,20-40,No gender mismatch,No TCD
+1932,28.0,1,881.0,1,CML,<=20,No gender mismatch,No TCD
+1933,42.0,1,336.0,1,AML,<=20,Gender mismatch,No TCD
+1934,53.0,0,53.0,1,CML,20-40,No gender mismatch,No TCD
+1935,26.0,1,1261.0,0,AML,20-40,No gender mismatch,No TCD
+1936,18.0,1,714.0,0,ALL,>40,No gender mismatch,No TCD
+1937,32.0,1,970.0,0,ALL,<=20,Gender mismatch,No TCD
+1938,25.0,1,273.0,1,ALL,<=20,Gender mismatch,No TCD
+1939,113.0,0,113.0,1,ALL,<=20,No gender mismatch,No TCD
+1940,29.0,1,572.0,0,ALL,<=20,No gender mismatch,No TCD
+1941,26.0,1,1695.0,0,AML,<=20,No gender mismatch,No TCD
+1942,843.0,0,843.0,0,CML,<=20,No gender mismatch,No TCD
+1943,217.0,0,217.0,0,CML,<=20,Gender mismatch,TCD
+1944,931.0,0,931.0,0,AML,20-40,Gender mismatch,No TCD
+1945,419.0,0,329.0,1,ALL,<=20,Gender mismatch,No TCD
+1946,102.0,0,102.0,1,CML,>40,No gender mismatch,No TCD
+1947,602.0,0,602.0,0,AML,<=20,Gender mismatch,No TCD
+1948,650.0,0,650.0,0,CML,20-40,No gender mismatch,No TCD
+1949,604.0,0,604.0,0,ALL,<=20,No gender mismatch,No TCD
+1950,259.0,0,246.0,1,CML,20-40,No gender mismatch,No TCD
+1951,704.0,0,704.0,0,CML,20-40,No gender mismatch,No TCD
+1952,628.0,0,628.0,0,CML,<=20,No gender mismatch,No TCD
+1953,56.0,1,945.0,0,ALL,<=20,No gender mismatch,No TCD
+1954,31.0,1,579.0,0,CML,>40,No gender mismatch,No TCD
+1955,30.0,1,244.0,0,CML,>40,Gender mismatch,No TCD
+1956,1377.0,0,1377.0,0,AML,<=20,No gender mismatch,No TCD
+1957,17.0,1,71.0,1,AML,20-40,No gender mismatch,No TCD
+1958,262.0,0,262.0,0,CML,20-40,Gender mismatch,No TCD
+1959,185.0,0,127.0,1,AML,<=20,No gender mismatch,No TCD
+1960,1911.0,0,1911.0,0,ALL,<=20,No gender mismatch,No TCD
+1961,1705.0,0,1705.0,0,ALL,<=20,No gender mismatch,No TCD
+1962,62.0,0,52.0,1,ALL,<=20,No gender mismatch,No TCD
+1963,2452.0,0,2452.0,0,ALL,<=20,No gender mismatch,No TCD
+1964,55.0,1,245.0,1,CML,<=20,No gender mismatch,No TCD
+1965,241.0,0,178.0,1,AML,<=20,No gender mismatch,No TCD
+1966,1101.0,0,1101.0,0,ALL,<=20,No gender mismatch,No TCD
+1967,692.0,0,692.0,0,AML,<=20,No gender mismatch,No TCD
+1968,41.0,1,679.0,0,AML,<=20,No gender mismatch,No TCD
+1969,29.0,1,364.0,0,AML,<=20,No gender mismatch,No TCD
+1970,259.0,0,259.0,1,AML,<=20,Gender mismatch,No TCD
+1971,1.0,0,1.0,1,ALL,<=20,No gender mismatch,No TCD
+1972,262.0,0,262.0,0,CML,<=20,No gender mismatch,No TCD
+1973,160.0,0,160.0,0,AML,<=20,No gender mismatch,No TCD
+1974,218.0,0,182.0,1,AML,<=20,No gender mismatch,No TCD
+1975,32.0,1,1070.0,0,CML,>40,No gender mismatch,TCD
+1976,8.0,0,8.0,1,AML,20-40,Gender mismatch,No TCD
+1977,61.0,1,2136.0,1,ALL,20-40,No gender mismatch,No TCD
+1978,74.0,1,943.0,0,CML,>40,No gender mismatch,TCD
+1979,31.0,1,2331.0,0,CML,<=20,No gender mismatch,No TCD
+1980,138.0,1,854.0,0,CML,>40,No gender mismatch,TCD
+1981,85.0,0,85.0,1,CML,20-40,No gender mismatch,No TCD
+1982,1316.0,0,1316.0,0,CML,20-40,No gender mismatch,No TCD
+1983,378.0,0,378.0,0,CML,20-40,Gender mismatch,No TCD
+1984,167.0,0,167.0,1,CML,20-40,No gender mismatch,No TCD
+1985,17.0,1,239.0,0,CML,20-40,No gender mismatch,No TCD
+1986,27.0,0,27.0,0,AML,20-40,No gender mismatch,No TCD
+1987,47.0,1,378.0,1,AML,<=20,No gender mismatch,No TCD
+1988,873.0,0,859.0,1,AML,20-40,No gender mismatch,No TCD
+1989,77.0,1,742.0,0,CML,20-40,Gender mismatch,No TCD
+1990,133.0,0,133.0,1,CML,20-40,Gender mismatch,No TCD
+1991,30.0,0,30.0,1,AML,20-40,Gender mismatch,No TCD
+1992,504.0,0,153.0,1,AML,20-40,No gender mismatch,No TCD
+1993,27.0,1,771.0,0,ALL,20-40,No gender mismatch,No TCD
+1994,40.0,1,721.0,0,AML,20-40,Gender mismatch,No TCD
+1995,23.0,1,721.0,0,CML,20-40,No gender mismatch,No TCD
+1996,115.0,1,359.0,0,CML,20-40,No gender mismatch,No TCD
+1997,30.0,1,95.0,1,ALL,20-40,No gender mismatch,No TCD
+1998,26.0,1,293.0,1,AML,<=20,No gender mismatch,No TCD
+1999,29.0,1,744.0,0,ALL,20-40,Gender mismatch,No TCD
+2000,45.0,1,807.0,0,AML,20-40,Gender mismatch,No TCD
+2001,45.0,0,45.0,1,CML,20-40,Gender mismatch,No TCD
+2002,21.0,1,2397.0,0,CML,20-40,No gender mismatch,No TCD
+2003,67.0,0,67.0,1,CML,>40,No gender mismatch,No TCD
+2004,733.0,0,733.0,1,CML,20-40,Gender mismatch,No TCD
+2005,26.0,1,1745.0,0,CML,>40,No gender mismatch,No TCD
+2006,29.0,1,1710.0,0,CML,>40,No gender mismatch,No TCD
+2007,26.0,1,1633.0,0,CML,<=20,No gender mismatch,No TCD
+2008,46.0,0,46.0,1,CML,20-40,No gender mismatch,No TCD
+2009,1353.0,0,1353.0,0,CML,20-40,No gender mismatch,No TCD
+2010,1839.0,0,1839.0,0,CML,>40,Gender mismatch,No TCD
+2011,14.0,1,457.0,0,AML,20-40,No gender mismatch,No TCD
+2012,86.0,1,472.0,0,AML,>40,No gender mismatch,No TCD
+2013,1468.0,0,381.0,1,CML,20-40,No gender mismatch,No TCD
+2014,1510.0,0,1510.0,0,CML,20-40,No gender mismatch,No TCD
+2015,1792.0,0,1792.0,0,CML,<=20,No gender mismatch,No TCD
+2016,26.0,1,142.0,1,AML,>40,Gender mismatch,No TCD
+2017,114.0,0,114.0,1,CML,>40,No gender mismatch,No TCD
+2018,2493.0,0,2493.0,0,CML,20-40,No gender mismatch,No TCD
+2019,26.0,1,161.0,1,AML,>40,Gender mismatch,No TCD
+2020,300.0,0,300.0,1,CML,20-40,No gender mismatch,No TCD
+2021,2301.0,0,155.0,1,CML,<=20,No gender mismatch,No TCD
+2022,193.0,0,105.0,1,AML,<=20,Gender mismatch,No TCD
+2023,2252.0,0,2252.0,0,CML,<=20,Gender mismatch,No TCD
+2024,29.0,1,202.0,1,AML,20-40,Gender mismatch,No TCD
+2025,26.0,1,1209.0,0,AML,>40,Gender mismatch,TCD
+2026,390.0,0,390.0,1,CML,20-40,Gender mismatch,No TCD
+2027,813.0,0,813.0,0,AML,20-40,No gender mismatch,TCD
+2028,14.0,1,1972.0,1,ALL,<=20,Gender mismatch,No TCD
+2029,1127.0,0,1127.0,0,ALL,<=20,No gender mismatch,No TCD
+2030,1002.0,0,1002.0,0,ALL,20-40,Gender mismatch,No TCD
+2031,994.0,0,994.0,0,ALL,>40,No gender mismatch,TCD
+2032,836.0,0,836.0,0,AML,<=20,No gender mismatch,No TCD
+2033,22.0,1,1279.0,0,AML,>40,No gender mismatch,TCD
+2034,736.0,0,736.0,0,AML,>40,No gender mismatch,No TCD
+2035,300.0,0,257.0,1,AML,20-40,No gender mismatch,No TCD
+2036,563.0,0,563.0,0,ALL,20-40,No gender mismatch,No TCD
+2037,528.0,0,528.0,0,ALL,20-40,No gender mismatch,No TCD
+2038,491.0,0,491.0,0,AML,20-40,No gender mismatch,No TCD
+2039,52.0,1,960.0,1,CML,20-40,No gender mismatch,TCD
+2040,92.0,1,440.0,1,CML,>40,Gender mismatch,TCD
+2041,29.0,1,406.0,1,CML,>40,No gender mismatch,TCD
+2042,27.0,1,2008.0,0,CML,20-40,No gender mismatch,TCD
+2043,7.0,0,7.0,1,CML,>40,Gender mismatch,TCD
+2044,28.0,1,374.0,1,CML,>40,Gender mismatch,TCD
+2045,29.0,1,2393.0,0,AML,20-40,No gender mismatch,TCD
+2046,33.0,1,1291.0,1,AML,>40,No gender mismatch,TCD
+2047,61.0,1,1363.0,0,AML,<=20,No gender mismatch,TCD
+2048,28.0,1,1503.0,1,CML,<=20,No gender mismatch,No TCD
+2049,27.0,1,148.0,1,AML,20-40,Gender mismatch,No TCD
+2050,198.0,0,198.0,1,ALL,<=20,Gender mismatch,No TCD
+2051,27.0,1,916.0,0,ALL,<=20,No gender mismatch,No TCD
+2052,121.0,0,121.0,1,ALL,<=20,No gender mismatch,No TCD
+2053,9.0,0,9.0,1,ALL,20-40,No gender mismatch,No TCD
+2054,1029.0,0,1029.0,0,ALL,20-40,No gender mismatch,No TCD
+2055,1291.0,0,1291.0,1,CML,>40,No gender mismatch,No TCD
+2056,20.0,1,118.0,1,AML,20-40,No gender mismatch,No TCD
+2057,29.0,1,2390.0,0,CML,<=20,Gender mismatch,No TCD
+2058,1400.0,0,1400.0,0,CML,20-40,No gender mismatch,No TCD
+2059,27.0,1,2121.0,0,AML,20-40,No gender mismatch,No TCD
+2060,26.0,1,176.0,1,AML,>40,Gender mismatch,No TCD
+2061,22.0,1,2268.0,0,AML,>40,No gender mismatch,No TCD
+2062,22.0,1,1037.0,1,AML,20-40,No gender mismatch,No TCD
+2063,106.0,1,439.0,1,CML,<=20,Gender mismatch,No TCD
+2064,15.0,1,1337.0,0,AML,20-40,No gender mismatch,No TCD
+2065,31.0,1,882.0,0,AML,>40,No gender mismatch,No TCD
+2066,17.0,1,1351.0,0,CML,>40,No gender mismatch,No TCD
+2067,291.0,0,168.0,1,ALL,<=20,No gender mismatch,No TCD
+2068,1711.0,0,1711.0,0,CML,>40,No gender mismatch,No TCD
+2069,25.0,1,1153.0,0,ALL,<=20,No gender mismatch,No TCD
+2070,27.0,1,1826.0,0,AML,>40,No gender mismatch,No TCD
+2071,32.0,1,299.0,1,AML,>40,Gender mismatch,No TCD
+2072,16.0,1,1577.0,0,AML,>40,Gender mismatch,No TCD
+2073,18.0,1,500.0,0,CML,20-40,No gender mismatch,No TCD
+2074,29.0,1,1430.0,0,CML,>40,No gender mismatch,No TCD
+2075,821.0,0,821.0,0,CML,>40,No gender mismatch,No TCD
+2076,719.0,0,719.0,0,AML,>40,No gender mismatch,No TCD
+2077,714.0,0,714.0,0,AML,>40,No gender mismatch,No TCD
+2078,637.0,0,637.0,0,AML,20-40,No gender mismatch,No TCD
+2079,225.0,0,225.0,0,AML,>40,No gender mismatch,No TCD
+2080,1289.0,0,1289.0,0,CML,>40,No gender mismatch,No TCD
+2081,11.0,1,57.0,1,AML,<=20,No gender mismatch,No TCD
+2082,22.0,1,260.0,1,AML,<=20,Gender mismatch,No TCD
+2083,20.0,1,316.0,1,AML,<=20,Gender mismatch,No TCD
+2084,14.0,1,156.0,1,AML,<=20,No gender mismatch,No TCD
+2085,16.0,1,1040.0,0,AML,>40,No gender mismatch,No TCD
+2086,321.0,0,321.0,1,ALL,20-40,No gender mismatch,TCD
+2087,14.0,1,964.0,0,AML,20-40,No gender mismatch,TCD
+2088,14.0,1,1033.0,0,ALL,<=20,No gender mismatch,TCD
+2089,16.0,1,1041.0,0,CML,20-40,No gender mismatch,TCD
+2090,18.0,1,433.0,1,AML,>40,Gender mismatch,TCD
+2091,53.0,1,2270.0,0,CML,<=20,Gender mismatch,No TCD
+2092,14.0,1,1461.0,0,AML,>40,No gender mismatch,No TCD
+2093,17.0,1,1651.0,0,AML,>40,No gender mismatch,No TCD
+2094,54.0,1,692.0,0,AML,20-40,No gender mismatch,No TCD
+2095,15.0,1,654.0,1,ALL,<=20,No gender mismatch,No TCD
+2096,20.0,1,1031.0,0,AML,20-40,Gender mismatch,No TCD
+2097,20.0,1,99.0,1,ALL,<=20,Gender mismatch,No TCD
+2098,13.0,1,2002.0,0,ALL,<=20,Gender mismatch,No TCD
+2099,34.0,1,873.0,1,CML,20-40,No gender mismatch,No TCD
+2100,74.0,0,74.0,1,ALL,20-40,No gender mismatch,No TCD
+2101,37.0,1,170.0,1,ALL,20-40,No gender mismatch,No TCD
+2102,19.0,1,1583.0,0,AML,20-40,No gender mismatch,No TCD
+2103,23.0,1,495.0,1,AML,20-40,No gender mismatch,No TCD
+2104,15.0,1,1579.0,0,CML,>40,Gender mismatch,No TCD
+2105,18.0,1,57.0,1,ALL,>40,No gender mismatch,No TCD
+2106,2547.0,0,721.0,1,CML,<=20,Gender mismatch,No TCD
+2107,2308.0,0,328.0,1,CML,20-40,No gender mismatch,No TCD
+2108,2192.0,0,2192.0,0,ALL,<=20,No gender mismatch,No TCD
+2109,1826.0,0,1826.0,0,AML,>40,Gender mismatch,No TCD
+2110,129.0,0,129.0,1,CML,>40,No gender mismatch,No TCD
+2111,1826.0,0,1826.0,0,ALL,>40,Gender mismatch,No TCD
+2112,1826.0,0,1826.0,0,ALL,20-40,No gender mismatch,No TCD
+2113,17.0,0,17.0,0,ALL,<=20,No gender mismatch,TCD
+2114,1268.0,0,1268.0,0,CML,>40,No gender mismatch,No TCD
+2115,1461.0,0,1461.0,0,AML,>40,No gender mismatch,No TCD
+2116,1096.0,0,1096.0,0,AML,20-40,No gender mismatch,No TCD
+2117,1451.0,0,1451.0,0,ALL,>40,Gender mismatch,No TCD
+2118,24.0,1,1650.0,0,CML,20-40,Gender mismatch,No TCD
+2119,32.0,1,1352.0,1,CML,>40,No gender mismatch,No TCD
+2120,237.0,0,237.0,1,CML,>40,Gender mismatch,No TCD
+2121,25.0,1,1456.0,0,CML,>40,No gender mismatch,No TCD
+2122,875.0,0,875.0,0,AML,<=20,No gender mismatch,No TCD
+2123,695.0,0,695.0,0,AML,20-40,No gender mismatch,No TCD
+2124,21.0,1,192.0,0,AML,<=20,No gender mismatch,No TCD
+2125,25.0,1,117.0,0,ALL,<=20,No gender mismatch,No TCD
+2126,35.0,1,144.0,0,AML,<=20,No gender mismatch,No TCD
+2127,16.0,1,159.0,0,AML,<=20,No gender mismatch,No TCD
+2128,38.0,1,39.0,0,ALL,<=20,No gender mismatch,No TCD
+2129,10.0,1,151.0,0,AML,<=20,No gender mismatch,No TCD
+2130,15.0,0,15.0,0,ALL,<=20,Gender mismatch,No TCD
+2131,35.0,0,35.0,0,AML,<=20,No gender mismatch,No TCD
+2132,31.0,1,325.0,0,AML,<=20,No gender mismatch,No TCD
+2133,47.0,0,47.0,1,ALL,<=20,No gender mismatch,No TCD
+2134,23.0,1,115.0,0,ALL,<=20,Gender mismatch,No TCD
+2135,24.0,1,213.0,0,AML,<=20,No gender mismatch,No TCD
+2136,20.0,1,62.0,0,AML,<=20,No gender mismatch,No TCD
+2137,2208.0,0,2208.0,0,CML,>40,Gender mismatch,No TCD
+2138,1592.0,0,1592.0,0,CML,<=20,No gender mismatch,No TCD
+2139,1163.0,0,1163.0,0,CML,20-40,No gender mismatch,No TCD
+2140,492.0,0,30.0,1,AML,>40,No gender mismatch,No TCD
+2141,400.0,0,400.0,0,ALL,20-40,No gender mismatch,No TCD
+2142,106.0,0,106.0,1,CML,>40,No gender mismatch,No TCD
+2143,402.0,0,402.0,1,CML,>40,Gender mismatch,No TCD
+2144,1276.0,0,29.0,1,CML,20-40,No gender mismatch,No TCD
+2145,1185.0,0,1185.0,0,CML,20-40,Gender mismatch,No TCD
+2146,562.0,0,562.0,0,ALL,<=20,Gender mismatch,No TCD
+2147,534.0,0,534.0,0,AML,20-40,No gender mismatch,No TCD
+2148,1823.0,0,1823.0,0,CML,20-40,Gender mismatch,No TCD
+2149,1841.0,0,1841.0,0,CML,20-40,No gender mismatch,No TCD
+2150,1788.0,0,1165.0,1,CML,<=20,No gender mismatch,No TCD
+2151,1828.0,0,1828.0,0,CML,20-40,No gender mismatch,No TCD
+2152,1596.0,0,1596.0,1,CML,>40,No gender mismatch,No TCD
+2153,225.0,0,225.0,1,AML,>40,No gender mismatch,No TCD
+2154,317.0,0,317.0,0,CML,>40,No gender mismatch,No TCD
+2155,86.0,0,86.0,1,CML,>40,No gender mismatch,No TCD
+2156,2264.0,0,2264.0,1,CML,>40,Gender mismatch,No TCD
+2157,12.0,1,2345.0,0,AML,20-40,No gender mismatch,No TCD
+2158,40.0,1,539.0,1,AML,20-40,No gender mismatch,No TCD
+2159,19.0,1,2283.0,0,AML,20-40,Gender mismatch,No TCD
+2160,355.0,0,355.0,1,CML,20-40,Gender mismatch,No TCD
+2161,932.0,0,290.0,1,CML,>40,Gender mismatch,No TCD
+2162,2369.0,0,2369.0,0,CML,20-40,No gender mismatch,No TCD
+2163,2352.0,0,2352.0,0,CML,>40,No gender mismatch,No TCD
+2164,165.0,1,2189.0,0,AML,20-40,No gender mismatch,No TCD
+2165,310.0,0,310.0,1,CML,20-40,Gender mismatch,No TCD
+2166,12.0,1,1476.0,0,AML,20-40,No gender mismatch,No TCD
+2167,457.0,0,457.0,1,CML,>40,Gender mismatch,No TCD
+2168,1927.0,0,1927.0,0,CML,20-40,No gender mismatch,No TCD
+2169,1862.0,0,1862.0,0,CML,20-40,Gender mismatch,No TCD
+2170,1928.0,0,596.0,1,CML,>40,No gender mismatch,No TCD
+2171,1592.0,0,1592.0,0,CML,20-40,Gender mismatch,No TCD
+2172,1469.0,0,1469.0,0,CML,>40,No gender mismatch,No TCD
+2173,1501.0,0,1501.0,0,CML,20-40,No gender mismatch,No TCD
+2174,1497.0,0,1497.0,0,CML,20-40,No gender mismatch,No TCD
+2175,1187.0,0,1187.0,0,CML,20-40,No gender mismatch,No TCD
+2176,1086.0,0,1086.0,0,ALL,<=20,No gender mismatch,No TCD
+2177,1282.0,0,1282.0,0,AML,20-40,No gender mismatch,No TCD
+2178,40.0,0,40.0,1,ALL,20-40,No gender mismatch,No TCD
+2179,18.0,1,2011.0,0,ALL,<=20,No gender mismatch,No TCD
+2180,34.0,1,368.0,1,AML,<=20,Gender mismatch,No TCD
+2181,145.0,1,261.0,0,AML,20-40,No gender mismatch,No TCD
+2182,54.0,1,112.0,0,ALL,<=20,No gender mismatch,No TCD
+2183,1457.0,0,735.0,1,CML,>40,Gender mismatch,No TCD
+2184,68.0,0,68.0,1,CML,>40,No gender mismatch,No TCD
+2185,243.0,1,1049.0,0,CML,20-40,No gender mismatch,No TCD
+2186,111.0,1,500.0,1,CML,>40,No gender mismatch,No TCD
+2187,40.0,1,916.0,0,ALL,<=20,No gender mismatch,No TCD
+2188,21.0,1,469.0,0,CML,20-40,No gender mismatch,No TCD
+2189,32.0,1,385.0,0,ALL,20-40,Gender mismatch,No TCD
+2190,28.0,1,609.0,0,AML,<=20,No gender mismatch,No TCD
+2191,39.0,1,1051.0,0,AML,<=20,No gender mismatch,No TCD
+2192,1952.0,0,1952.0,0,ALL,<=20,No gender mismatch,No TCD
+2193,98.0,0,98.0,1,ALL,20-40,No gender mismatch,No TCD
+2194,195.0,0,195.0,1,AML,20-40,Gender mismatch,No TCD
+2195,142.0,1,928.0,0,ALL,<=20,No gender mismatch,No TCD
+2196,25.0,1,852.0,0,ALL,20-40,No gender mismatch,No TCD
+2197,22.0,0,22.0,1,CML,>40,No gender mismatch,No TCD
+2198,79.0,0,79.0,1,CML,>40,No gender mismatch,No TCD
+2199,24.0,1,303.0,1,AML,20-40,No gender mismatch,No TCD
+2200,1078.0,0,1078.0,0,AML,20-40,Gender mismatch,No TCD
+2201,27.0,1,1380.0,0,CML,20-40,No gender mismatch,No TCD
+2202,21.0,1,241.0,0,ALL,<=20,No gender mismatch,No TCD
+2203,41.0,1,1841.0,0,AML,<=20,No gender mismatch,No TCD
+2204,18.0,1,85.0,0,AML,<=20,Gender mismatch,No TCD

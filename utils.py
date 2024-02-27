@@ -22,7 +22,7 @@ def cr_time_config(df):
     max_t = [df[df['event'] == l]['time'].max() for l in labels]
     time_dist = [('weibull', 2) for _ in range(len(labels))]
     cuts = np.unique(df['time'])
-    return time_dist, max_t, labels, cuts
+    return df, time_dist, max_t, labels, cuts
 
 
 def load_dataset(dataset_name, args, seed=1234):
@@ -51,7 +51,7 @@ def load_dataset(dataset_name, args, seed=1234):
         df['sex'] = df['sex'].apply(lambda x: 0 if x == 'F' else 1)
 
         # Time and label info
-        time_dist, max_t, labels, cuts = cr_time_config(df)
+        df, time_dist, max_t, labels, cuts = cr_time_config(df)
         feat_distribution = [('gaussian', 2), ('bernoulli', 1), ('gaussian', 2), ('gaussian', 2), ('gaussian', 2)]
 
     elif dataset_name == 'melanoma':
@@ -77,7 +77,7 @@ def load_dataset(dataset_name, args, seed=1234):
         df['age'] = (df['age'] - df['age'].mean()) / df['age'].std()
 
         # Time and label info
-        time_dist, max_t, labels, cuts = cr_time_config(df)
+        df, time_dist, max_t, labels, cuts = cr_time_config(df)
         feat_distribution = [('categorical', 3), ('categorical', 4), ('bernoulli', 1), ('bernoulli', 1),
                              ('gaussian', 2), ('bernoulli', 1), ('gaussian', 2)]
 
@@ -104,7 +104,7 @@ def load_dataset(dataset_name, args, seed=1234):
         df['age'] = pd.Categorical(df['age']).codes
 
         # Time and label info
-        time_dist, max_t, labels, cuts = cr_time_config(df)
+        df, time_dist, max_t, labels, cuts = cr_time_config(df)
         feat_distribution = [('categorical', 3), ('bernoulli', 1), ('categorical', 3), ('categorical', 3),
                              ('categorical', 3)]
     else:
@@ -133,19 +133,13 @@ def run_args():
     args['input_dir'] = args['abs_path'] + '/datasets/'
 
     # Training and testing configurations for savae and sota models
-    args['n_threads'] = 65
-    args['n_seeds'] = 10
-    args['train'] = False  # Whether to train the models or load them from file if they are pretrained
+    args['n_threads'] = 5
+    args['train'] = not True  # Whether to train the models or load them from file if they are pretrained
     args['test'] = True  # Whether to test using the p-values: note that old versions of scipy may yield an error in the
     # ttest_ind function
-    args['early_stop'] = True
     args['n_folds'] = 5
-    args['batch_size'] = 64
-    args['n_epochs'] = 3000
-    args['lr'] = 1e-3
-    args['time_distribution'] = ('weibull', 2)
     args['significance_threshold'] = 0.01
 
-    args['output_dir'] = args['abs_path'] + '/results/'
+    args['output_dir'] = args['abs_path'] + 'results/'
 
     return args

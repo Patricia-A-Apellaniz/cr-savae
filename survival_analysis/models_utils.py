@@ -13,7 +13,7 @@ from joblib import Parallel, delayed
 
 from pycox.models import DeepHit
 from pycox.evaluation import EvalSurv
-from survival_analysis.cr_savae import SAVAE_competing
+from cr_savae import SAVAE_competing
 
 
 class CauseSpecificNet(torch.nn.Module):
